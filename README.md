@@ -2,8 +2,8 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
   <p>
-		<a href="https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance">DL/RL/SL Strategies Research & Tools in Quantitative Finance</a>
-	</p>
+    <a href="https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance">DL/RL/SL Strategies Research & Tools in Quantitative Finance</a>
+  </p>
 </div>
 
 # Awesome DL/RL/SL in Quantitative Finance
@@ -13,6 +13,8 @@ The main goal is collect those AI (RL / DL / SL / Evoluation / Genetic Algorithm
 We collect all market include traditional market like `stock/futures/currencies` and crypto currency markets.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[toc]
 
 - Papers
 - Strategies
