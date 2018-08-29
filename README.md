@@ -38,24 +38,33 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 #### Traditional Markets
 
 - [Personae](https://github.com/Ceruleanacg/Personae): 📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
-
 - [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading): 💸 Papers and Code Implements for Quantitative-Trading
 - [gym-trading](https://github.com/hackthemarket/gym-trading): Environment for reinforcement-learning algorithmic trading models
+- [zenbrain](https://github.com/carlos8f/zenbrain): A framework for machine-learning bots
 
 #### Portfolio Management
 
 - [qtrader](https://github.com/filangel/qtrader): Reinforcement Learning for Portfolio Management
 - [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio): PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem
 
+### High Frequency Trading (HFT)
+
+- [SGX-Full-OrderBook-Tick-Data-Trading-Strategy](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy): Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+- [HFT_Bitcoin](https://github.com/ghgr/HFT_Bitcoin): Analysis of High Frequency Trading on Bitcoin exchanges
+
 #### Crypto Currencies
 
+- [LSTM-Crypto-Price-Prediction](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction): Predicting price trends in cryptomarkets using an lstm-RNN for the use of a trading bot
 - [tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader): TensorForce Bitcoin Trading Bot
 - [Tensorflow-NeuroEvolution-Trading-Bot](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot): Using tensorflow to build a population of models that trade cyrpto and breed and mutate iteratively
 - [gekkoga](https://github.com/gekkowarez/gekkoga): Genetic Algorithm for solving optimization of trading strategies using Gekko
 - [Gekko_ANN_Strategies](https://github.com/markchen8717/Gekko_ANN_Strategies): ANN trading strategies for the Gekko trading bot
+- [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet): Neural network strategy for Gekko
+- [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction): This is the code for "Bitcoin Prediction" by Siraj Raval on Youtube
 
 ### TA
 
+- [Gekko-Bot-Resources](https://github.com/cloggy45/Gekko-Bot-Resources): Gekko bot resources.
 - [gekko_tools](https://github.com/tommiehansen/gekko_tools): Gekko strategies, tools etc.
 - [gekko RSI_WR](https://github.com/zzmike76/gekko): Gekko RSI_WR strategies
 - [gekko HL](https://github.com/mounirlabaied/gekko-strat-hl): calculate down peak and trade on
@@ -63,6 +72,9 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [gekko_trading_stuff](https://github.com/thegamecat/gekko-trading-stuff): A dumping ground for my files I use with this awesome crypto currency trading platform
 - [forex.analytics](https://github.com/mkmarek/forex.analytics): Node.js native library performing technical analysis over an OHLC dataset with use of genetic algorithm
 - [Bitcoin_MACD_Strategy](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy): Bitcoin - MACD Crossover Trading Strategy Backtest
+- [crypto-signal](https://github.com/CryptoSignal/crypto-signal): Automated Crypto Trading & Technical Analysis (TA) Bot for Bittrex, Binance, GDAX, and more! (250+ coins)
+- [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies): Strategies to Gekko trading bot with backtests results and some useful tools.
+- [gekko-gannswing](https://github.com/johndoe75/gekko-gannswing): Gann's Swing trade strategy for Gekko trade bot
 
 
 ### Arbitrage
@@ -75,6 +87,10 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 
 ## Data Sources
+
+#### Traditional Markets
+
+- [](): 
 
 #### Crypto Currencies
 
@@ -89,7 +105,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [alphalens](https://github.com/quantopian/alphalens): Performance analysis of predictive (alpha) stock factors http://quantopian.github.io/alphalens
 - [empyrical](https://github.com/quantopian/empyrical): Common financial risk and performance metrics. Used by zipline and pyfolio. http://quantopian.github.io/empyrical
 
-## Trading System (Backtest & Live trading)
+## Trading System (Back Test & Live trading)
 
 ### Traditional Market
 
@@ -97,6 +113,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 - [zipline](https://github.com/quantopian/zipline): Zipline, a Pythonic Algorithmic Trading Library http://www.zipline.io/
 - [backtrader](https://github.com/backtrader/backtrader): Python Backtesting library for trading strategies https://www.backtrader.com
+- [kungfu](https://github.com/taurusai/kungfu): Kungfu Master Trading System
 
 [Combine & Rebuild]
 
@@ -105,10 +122,14 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 ### Crypto Currencies
 
+- [gekko](https://github.com/askmike/gekko): A bitcoin trading bot written in node - https://gekko.wizb.it/
+- [zenbot](https://github.com/DeviaVir/zenbot): Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+- [bot18](https://github.com/carlos8f/bot18): Bot18 is a high-frequency cryptocurrency trading bot developed by Zenbot creator @carlos8f https://bot18.net/
 - [magic8bot](https://github.com/magic8bot/magic8bot): Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 - [catalyst](https://github.com/enigmampc/catalyst): An Algorithmic Trading Library for Crypto-Assets in Python http://enigma.co
 - [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev): Quant Research dev & Traders open source project **[BUILDING]**
 - [MACD](https://github.com/sudoscripter/MACD): Zenbot Macd Auto-Trader
+- [abu](https://github.com/bbfamily/abu): A quant trading system base on python.http://www.abuquant.com/
 
 #### Plugins
 
@@ -143,6 +164,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [convnetjs](https://github.com/karpathy/convnetjs): Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [TensorForce](https://github.com/reinforceio/tensorforce): TensorForce: A TensorFlow library for applied reinforcement learning
 - [gym](https://github.com/openai/gym): A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/
+- [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js): Reinforcement learning using Markov Decision Processes. For JS, written in C++.
 
 
 ### Visualizing
@@ -155,3 +177,8 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 - [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard): TensorBoard as a Zipline dashboard http://jimgoo.com/tensorboard-and-zip…
 - [gekko-quasar-ui](https://github.com/H256/gekko-quasar-ui): An UI port for gekko trading bot using Quasar framework.
+
+#### Other Resource
+
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant): A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)          
+- [awesome-quant-china](https://github.com/thuquant/awesome-quant): Quant resource in china
