@@ -1,8 +1,18 @@
-# Awesome DL/RL/SL in Quantum Finance
+<div align="center">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<br>
+  <p>
+		<a href="https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance">DL/RL/SL Strategies Research & Tools in Quantitative Finance</a>
+	</p>
+</div>
 
-The main goal is collect those AI(RL/DL/SL/Evoluation/Genetic Algorithm) used in finance market. otherwise, we add TA/arbitrage and other useful tools in quantitative finance market.
+# Awesome DL/RL/SL in Quantitative Finance
 
-We collect all market includs traditional market like stock/futures/currencies and crypto currency markets
+The main goal is collect those AI (RL / DL / SL / Evoluation / Genetic Algorithm) used in financial market. otherwise, we add Technology Analysis / Alpha Research / Arbitrage and other useful strategies tools & docs in quantitative finance market.
+
+We collect all market include traditional market like `stock/futures/currencies` and crypto currency markets.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - Papers
 - Strategies
