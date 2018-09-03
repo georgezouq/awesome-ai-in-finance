@@ -27,6 +27,14 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 ## Papers
 
+### Basic Theory
+
+- [THE THEORY OF SPECULATION L. BACHELIER 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf): The influences which determine the movements of the Stock Exchange are
+- [Brownian Motion in the Stock Market Osborne,1959](http://m.e-m-h.org/Osbo59.pdf)                                                                                                                              innumerable. Events past, present or even anticipated, often showing no apparent
+                                                                                                                              connection with its fluctuations, yet have repercussions on its course.
+
+### Modern
+
 - [A Deep Reinforcement Learning Framework for the
 Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [Reinforcement Learning for Trading 1994](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)
@@ -90,7 +98,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 #### Traditional Markets
 
-- [](): 
+- [Tushare](): 
 
 #### Crypto Currencies
 
@@ -112,6 +120,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 [System]
 
 - [zipline](https://github.com/quantopian/zipline): Zipline, a Pythonic Algorithmic Trading Library http://www.zipline.io/
+- [rqalpha](https://github.com/ricequant/rqalpha): A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities http://rqalpha.io
 - [backtrader](https://github.com/backtrader/backtrader): Python Backtesting library for trading strategies https://www.backtrader.com
 - [kungfu](https://github.com/taurusai/kungfu): Kungfu Master Trading System
 
@@ -133,6 +142,7 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 #### Plugins
 
+- [easytrader](https://github.com/shidenggui/easytrader): 提供银河/国金/华泰客户端/同花顺客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 - [CoinMarketCapBacktesting](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting): This project tests bt(http://pmorissette.github.io/bt) and Quantopian Zipline(https://github.com/quantopian/zipline) as backtesting frameworks for coin trading strategy.
 - [Gekko-BacktestTool](https://github.com/xFFFFF/Gekko-BacktestTool): Batch backtest, import and strategy params optimalization for Gekko Trading Bot. With one command you will run any number of backtests.
 
@@ -173,7 +183,16 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [netron](https://github.com/lutzroeder/netron): Visualizer for deep learning and machine learning models https://www.lutzroeder.com/ai
 
 
-### Others
+## Articles
+
+#### Chinese
+
+- [Maury Osborne和三文鱼的故事](https://zhuanlan.zhihu.com/p/20586843)
+- [布朗运动、伊藤引理——细说Black-Scholes公式的前世今生（上篇）](https://zhuanlan.zhihu.com/p/32664487) 
+- [布朗运动、伊藤引理——细说Black-Scholes公式的前世今生（下篇）](https://zhuanlan.zhihu.com/p/32746192)
+- [趋势策略小试牛刀，海龟交易体系的构建](https://www.ricequant.com/community/topic/62/%E8%B6%8B%E5%8A%BF%E7%AD%96%E7%95%A5%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80-%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E4%BD%93%E7%B3%BB%E7%9A%84%E6%9E%84%E5%BB%BA)
+
+## Others
 
 - [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard): TensorBoard as a Zipline dashboard http://jimgoo.com/tensorboard-and-zip…
 - [gekko-quasar-ui](https://github.com/H256/gekko-quasar-ui): An UI port for gekko trading bot using Quasar framework.
@@ -182,3 +201,4 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant): A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)          
 - [awesome-quant-china](https://github.com/thuquant/awesome-quant): Quant resource in china
+
