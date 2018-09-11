@@ -14,8 +14,6 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[toc]
-
 - Papers
 - Strategies
 - Trading System
@@ -45,10 +43,12 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 #### Traditional Markets
 
+- [trump2cash](https://github.com/maxbbraun/trump2cash): A stock trading bot powered by Trump tweets http://trump2cash.biz
 - [Personae](https://github.com/Ceruleanacg/Personae): 📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 - [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading): 💸 Papers and Code Implements for Quantitative-Trading
 - [gym-trading](https://github.com/hackthemarket/gym-trading): Environment for reinforcement-learning algorithmic trading models
 - [zenbrain](https://github.com/carlos8f/zenbrain): A framework for machine-learning bots
+- [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes): Machine Learning in Quant analysis
 
 #### Portfolio Management
 
@@ -184,6 +184,8 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 
 
 ## Articles
+
+- [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
 
 #### Chinese
 
