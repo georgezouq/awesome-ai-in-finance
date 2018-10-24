@@ -15,6 +15,7 @@ We collect all market include traditional market like `stock/futures/currencies`
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - Papers
+- Courses
 - Strategies
 - Trading System
 - Research tools
@@ -25,17 +26,17 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 ## Papers
 
-### Basic Theory
-
 - [THE THEORY OF SPECULATION L. BACHELIER 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf): The influences which determine the movements of the Stock Exchange are
 - [Brownian Motion in the Stock Market Osborne,1959](http://m.e-m-h.org/Osbo59.pdf)                                                                                                                              innumerable. Events past, present or even anticipated, often showing no apparent
-                                                                                                                              connection with its fluctuations, yet have repercussions on its course.
-
-### Modern
-
 - [A Deep Reinforcement Learning Framework for the
 Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [Reinforcement Learning for Trading 1994](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)
+- [Dragon-Kings, Black Swans and the Prediction of Crises Didier Sornette](https://arxiv.org/pdf/0907.4290.pdf): We develop the concept of “dragon-kings” corresponding to meaningful outliers, which are found to coexist with power laws in the
+distributions of event sizes under a broad range of conditions in a large variety of systems. 
+
+## Courses
+
+- [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 
 ## Strategies & Research
 
