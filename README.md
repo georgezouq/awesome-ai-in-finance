@@ -85,6 +85,9 @@ distributions of event sizes under a broad range of conditions in a large variet
 - [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies): Strategies to Gekko trading bot with backtests results and some useful tools.
 - [gekko-gannswing](https://github.com/johndoe75/gekko-gannswing): Gann's Swing trade strategy for Gekko trade bot
 
+### Lottery & Gamble
+
+- [LotteryPredict](https://github.com/chengstone/LotteryPredict): Use LSTM to predict lottery
 
 ### Arbitrage
 
@@ -106,13 +109,13 @@ distributions of event sizes under a broad range of conditions in a large variet
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber): 📈 A live cryptocurrency historical trade data blotter. Download live historical trade data from any cryptoexchange, be it for machine learning, backtesting/visualizing trading strategies or for Quantopian/Zipline.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets): Gekko Trading Bot dataset dumps. Ready to use and download history files in SQLite format.
 
-
 ## Research Tools
 
 - [JAQS](https://github.com/quantOS-org/JAQS): An open source quant strategies research  platform.
 - [pyfolio](https://github.com/quantopian/pyfolio): Portfolio and risk analytics in Python https://quantopian.github.io/pyfolio
 - [alphalens](https://github.com/quantopian/alphalens): Performance analysis of predictive (alpha) stock factors http://quantopian.github.io/alphalens
 - [empyrical](https://github.com/quantopian/empyrical): Common financial risk and performance metrics. Used by zipline and pyfolio. http://quantopian.github.io/empyrical
+- [fooltrader](https://github.com/foolcage/fooltrader): Trade as a fool
 
 ## Trading System (Back Test & Live trading)
 
@@ -157,6 +160,7 @@ distributions of event sizes under a broad range of conditions in a large variet
 ### Exchange API
 
 - [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder): Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest/analysis and live trading
+- [ctpwrapper](https://github.com/nooperpudd/ctpwrapper): Shanghai future exchange CTP api
 
 ## Tutorials
 
@@ -176,7 +180,8 @@ distributions of event sizes under a broad range of conditions in a large variet
 - [TensorForce](https://github.com/reinforceio/tensorforce): TensorForce: A TensorFlow library for applied reinforcement learning
 - [gym](https://github.com/openai/gym): A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/
 - [Pavlov.js](https://github.com/NathanEpstein/Pavlov.js): Reinforcement learning using Markov Decision Processes. For JS, written in C++.
-
+- [baselines](https://github.com/openai/baselines): OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [prophet](https://github.com/facebook/prophet): Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 
 ### Visualizing
 
@@ -204,4 +209,4 @@ distributions of event sizes under a broad range of conditions in a large variet
 
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant): A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)          
 - [awesome-quant-china](https://github.com/thuquant/awesome-quant): Quant resource in china
-
+- [awesome-rl](https://github.com/aikorea/awesome-rl)
