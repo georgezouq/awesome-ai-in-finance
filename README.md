@@ -153,6 +153,7 @@ distributions of event sizes under a broad range of conditions in a large variet
 ### TA (Technology Analysis) Lib
 
 - [pandas_talib](https://github.com/femtotrader/pandas_talib): A Python Pandas implementation of technical analysis indicators
+- [finta](https://github.com/peerchemist/finta): Common financial technical indicators implemented in Python-Pandas (70+ indicators).
 - [tulipnode](https://github.com/TulipCharts/tulipnode): Tulip Node is the official node.js wrapper for Tulip Indicators. It provides over 100 technical analysis overlay and indicator functions. https://tulipindicators.org
 - [techan.js](https://github.com/andredumas/techan.js): A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3. http://techanjs.org/
 
