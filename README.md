@@ -150,7 +150,7 @@ distributions of event sizes under a broad range of conditions in a large variet
 - [CoinMarketCapBacktesting](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting): This project tests bt(http://pmorissette.github.io/bt) and Quantopian Zipline(https://github.com/quantopian/zipline) as backtesting frameworks for coin trading strategy.
 - [Gekko-BacktestTool](https://github.com/xFFFFF/Gekko-BacktestTool): Batch backtest, import and strategy params optimalization for Gekko Trading Bot. With one command you will run any number of backtests.
 
-### TA (Technology Analysis) Lib
+### TA (Technical Analysis) Lib
 
 - [pandas_talib](https://github.com/femtotrader/pandas_talib): A Python Pandas implementation of technical analysis indicators
 - [tulipnode](https://github.com/TulipCharts/tulipnode): Tulip Node is the official node.js wrapper for Tulip Indicators. It provides over 100 technical analysis overlay and indicator functions. https://tulipindicators.org
