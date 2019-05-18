@@ -115,7 +115,8 @@ distributions of event sizes under a broad range of conditions in a large variet
 - [pyfolio](https://github.com/quantopian/pyfolio): Portfolio and risk analytics in Python https://quantopian.github.io/pyfolio
 - [alphalens](https://github.com/quantopian/alphalens): Performance analysis of predictive (alpha) stock factors http://quantopian.github.io/alphalens
 - [empyrical](https://github.com/quantopian/empyrical): Common financial risk and performance metrics. Used by zipline and pyfolio. http://quantopian.github.io/empyrical
-- [fooltrader](https://github.com/foolcage/fooltrader): Trade as a fool
+- !!![deprecated]!!![fooltrader](https://github.com/foolcage/fooltrader): Trade as a fool 
+- [zvt](https://github.com/zvtvz/zvt): zero vector trader(which base on fooltrader)
 
 ## Trading System (Back Test & Live trading)
 
@@ -192,6 +193,8 @@ distributions of event sizes under a broad range of conditions in a large variet
 
 ## Articles
 
+- [The-Economist](https://github.com/nailperry-zd/The-Economist): The Economist 经济学人，持续更新
+- [nyu-mlif-notes](https://github.com/wizardforcel/nyu-mlif-notes): NYU machine learning in finance notes
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
 
 #### Chinese
