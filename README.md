@@ -16,7 +16,7 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 - [Implementation](#Implementation)
 - [Papers](#papers)
-- [Courses & Book](#courses&book)
+- [Courses & Book](#courses--book)
 - [Strategies](#strategies--research)
 - [Trading System](#trading-system-back-test--live-trading)
 - [Research tools](#research-tools)
@@ -27,6 +27,7 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 ## Implementation
 
+- [Personae](https://github.com/Ceruleanacg/Personae): 📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 - [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning): Every day, millions of traders around the world are trying to make money by trading stocks. These days, physical traders are also being replaced by automated trading robots. Algorithmic trading market has experienced significant growth rate and large number of firms are using it. I have tried to build a Deep Q-learning reinforcement agent model …
 - [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading): A light-weight deep reinforcement learning framework for portfolio management. This project explores the possibility of applying deep reinforcement learning algorithms to stock trading in a highly modular and scalable framework.
 - [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader): Trading Environment(OpenAI Gym) + PPO(TensorForce)
@@ -57,12 +58,9 @@ distributions of event sizes under a broad range of conditions in a large variet
 
 ## Strategies & Research
 
-### AI
-
 #### Traditional Markets
 
 - [trump2cash](https://github.com/maxbbraun/trump2cash): A stock trading bot powered by Trump tweets http://trump2cash.biz
-- [Personae](https://github.com/Ceruleanacg/Personae): 📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 - [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading): 💸 Papers and Code Implements for Quantitative-Trading
 - [gym-trading](https://github.com/hackthemarket/gym-trading): Environment for reinforcement-learning algorithmic trading models
 - [zenbrain](https://github.com/carlos8f/zenbrain): A framework for machine-learning bots
