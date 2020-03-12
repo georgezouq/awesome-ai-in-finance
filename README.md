@@ -14,8 +14,9 @@ We collect all market include traditional market like `stock/futures/currencies`
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Implementation](#Implementation)
 - [Papers](#papers)
-- [Courses](#courses)
+- [Courses & Book](#courses&book)
 - [Strategies](#strategies--research)
 - [Trading System](#trading-system-back-test--live-trading)
 - [Research tools](#research-tools)
@@ -23,6 +24,15 @@ We collect all market include traditional market like `stock/futures/currencies`
 - [Tutorials & Docs](#tutorials)
 - [Exchange API & Docs](#ai-framework)
 - [Other Tools](#others)
+
+## Implementation
+
+- [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning): Every day, millions of traders around the world are trying to make money by trading stocks. These days, physical traders are also being replaced by automated trading robots. Algorithmic trading market has experienced significant growth rate and large number of firms are using it. I have tried to build a Deep Q-learning reinforcement agent model …
+- [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading): A light-weight deep reinforcement learning framework for portfolio management. This project explores the possibility of applying deep reinforcement learning algorithms to stock trading in a highly modular and scalable framework.
+- [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader): Trading Environment(OpenAI Gym) + PPO(TensorForce)
+- [trading-gym](https://github.com/6-Billionaires/trading-gym): This trading-gym is the first trading for agent to train with episode of short term trading itself.
+- [trading-rl](https://github.com/Kostis-S-Z/trading-rl): Deep Reinforcement Learning for Financial Trading using Price Trailing @ ICASSP 2019
+- [deep_rl_trader](https://github.com/miroblog/deep_rl_trader): Trading Environment(OpenAI Gym) + DDQN (Keras-RL)
 
 ## Papers
 
@@ -34,9 +44,10 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [Dragon-Kings, Black Swans and the Prediction of Crises Didier Sornette](https://arxiv.org/pdf/0907.4290.pdf): We develop the concept of “dragon-kings” corresponding to meaningful outliers, which are found to coexist with power laws in the
 distributions of event sizes under a broad range of conditions in a large variety of systems. 
 
-## Courses
+## Courses & Book
 
 - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
+- [Advanced-Deep-Trading](https://github.com/Rachnog/Advanced-Deep-Trading): Mostly experiments based on "Advances in financial machine learning" book
 
 ## Strategies & Research
 
