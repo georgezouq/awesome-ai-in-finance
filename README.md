@@ -43,7 +43,13 @@ Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
 - [Reinforcement Learning for Trading 1994](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf)
 - [Dragon-Kings, Black Swans and the Prediction of Crises Didier Sornette](https://arxiv.org/pdf/0907.4290.pdf): We develop the concept of “dragon-kings” corresponding to meaningful outliers, which are found to coexist with power laws in the
 distributions of event sizes under a broad range of conditions in a large variety of systems. 
-
+- [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf): An automatic program that generates constant profit from the financial market is lucrative
+                                                                                                               for every market practitioner. Recent advance in deep reinforcement learning provides a
+                                                                                                               framework toward end-to-end training of such trading agent...
+- [MACHINE LEARNING FOR TRADING](https://cims.nyu.edu/~ritter/ritter2017machine.pdf): Abstract. In multi-period trading with realistic market impact, determining the dynamic trading strategy that optimizes expected utility
+                                                                                      of final wealth is a hard problem. Gordon Ritter shows that, with an
+                                                                                      appropriate choice of the reward function, reinforcement learning techniques (specifically, Q-learning) can successfully handle the risk-averse
+                                                                                      case
 ## Courses & Book
 
 - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
