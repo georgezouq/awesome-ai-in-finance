@@ -53,6 +53,7 @@ distributions of event sizes under a broad range of conditions in a large variet
                                                                                       case
 ## Courses & Book
 
+- [AI in Finance](https://cfte.education/): Learn Fintech Online
 - [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 - [Advanced-Deep-Trading](https://github.com/Rachnog/Advanced-Deep-Trading): Mostly experiments based on "Advances in financial machine learning" book
 
