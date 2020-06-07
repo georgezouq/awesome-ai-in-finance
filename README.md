@@ -71,6 +71,7 @@ Price and Volume process with Technology Analysis Indices
 - [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading): A light-weight deep reinforcement learning framework for portfolio management. This project explores the possibility of applying deep reinforcement learning algorithms to stock trading in a highly modular and scalable framework.
 - [qtrader](https://github.com/filangel/qtrader): Reinforcement Learning for Portfolio Management
 - [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio): PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem
+- [DeepDow](https://github.com/jankrepl/deepdow): Portfolio optimization with deep learning.
 
 ### High Frequency Trading
 
