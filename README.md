@@ -65,6 +65,7 @@ Price and Volume process with Technology Analysis Indices
 - [gym-trading](https://github.com/hackthemarket/gym-trading): Environment for reinforcement-learning algorithmic trading models
 - [zenbrain](https://github.com/carlos8f/zenbrain): A framework for machine-learning bots
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes): Machine Learning in Quant analysis
+- [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning): Stock Trading Market OpenAI Gym Environment with Deep Reinforcement Learning using Keras
 
 #### Portfolio Management
 
@@ -193,6 +194,8 @@ Do it in real world!
 - [ctpwrapper](https://github.com/nooperpudd/ctpwrapper): Shanghai future exchange CTP api
 
 ### Framework
+
+- [tf-quant-finance](https://github.com/google/tf-quant-finance): High-performance TensorFlow library for quantitative finance.
 
 ### Visualizing
 
