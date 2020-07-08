@@ -12,6 +12,9 @@ The main goal is collect those AI (RL / DL / SL / Evoluation / Genetic Algorithm
 
 We collect all market include traditional market like `stock/futures/currencies` and crypto currency markets.
 
+    We’re right 50.75 percent of the time... but we’re 100 percent right 50.75 percent of the time, you can make billions that way.
+    --- Robert Mercer, co-CEO of Renaissance Technologies
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [Papers](#papers)
@@ -96,6 +99,7 @@ Price and Volume process with Technology Analysis Indices
 
 ##### TA
 
+- [quant-trading](https://github.com/je-suis-tm/quant-trading): Python quantitative trading strategies including Pattern Recognition, CTA, Monte Carlo, Options Straddle, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
 - [Gekko-Bot-Resources](https://github.com/cloggy45/Gekko-Bot-Resources): Gekko bot resources.
 - [gekko_tools](https://github.com/tommiehansen/gekko_tools): Gekko strategies, tools etc.
 - [gekko RSI_WR](https://github.com/zzmike76/gekko): Gekko RSI_WR strategies
