@@ -12,8 +12,8 @@ The main goal is collect those AI (RL / DL / SL / Evoluation / Genetic Algorithm
 
 We collect all market include traditional market like `stock/futures/currencies` and crypto currency markets.
 
-    We’re right 50.75 percent of the time... but we’re 100 percent right 50.75 percent of the time, you can make billions that way.
-    --- Robert Mercer, co-CEO of Renaissance Technologies
+> We’re right 50.75 percent of the time... but we’re 100 percent right 50.75 percent of the time, you can make billions that way.
+>       --- Robert Mercer, co-CEO of Renaissance Technologies
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
