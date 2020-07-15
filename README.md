@@ -1,14 +1,9 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-  <p>
-    <a href="https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance">DL/RL/SL Strategies Research & Tools in Quantitative Finance</a>
-  </p>
 </div>
 
-# Awesome AI in Finance
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Machine learning algorithm and useful tools use in financial market. 
 
