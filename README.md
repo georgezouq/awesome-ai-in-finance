@@ -1,12 +1,8 @@
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-Machine learning algorithm and useful tools use in financial market. 
+> A curated list of useful resources for Financial AI
 
-We collect all market include traditional market like `stock/futures/currencies` and crypto currency markets.
-
-> We're right 50.75 percent of the time, but we're 100 percent right 50.75 percent of the time, you can make billions that way.
->       --- Robert Mercer, co-CEO of Renaissance Technologies
-
+Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
 
 ## Contents
 
