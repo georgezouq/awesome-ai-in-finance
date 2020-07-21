@@ -10,7 +10,7 @@ Machine learning algorithm and useful tools use in financial market, include tra
 
 - 🌟 [RL-Stock](https://github.com/wangshub/RL-Stock) - 如何用深度强化学习自动炒股.
 
-## Articles
+## 文章
 
 - [Maury Osborne和三文鱼的故事](https://zhuanlan.zhihu.com/p/20586843)
 - [布朗运动、伊藤引理——细说Black-Scholes公式的前世今生（上篇）](https://zhuanlan.zhihu.com/p/32664487) 

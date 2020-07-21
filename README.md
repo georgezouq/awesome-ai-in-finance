@@ -210,7 +210,7 @@ Do it in real world!
 
 ## Articles
 
-- [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新.
+- [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist.
 - [nyu-mlif-notes](https://github.com/wizardforcel/nyu-mlif-notes) - NYU machine learning in finance notes.
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
 
