@@ -4,7 +4,7 @@
 
 Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
 
-[[English Resource](./README.md)] [[中文资源](./chinese.md)]
+[[中文资源](./chinese.md)]
 
 ## Contents
 
@@ -30,7 +30,7 @@ Machine learning algorithm and useful tools use in financial market, include tra
 ## Papers
 
 - [THE THEORY OF SPECULATION L. BACHELIER 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf) - The influences which determine the movements of the Stock Exchange are.
-- [Brownian Motion in the Stock Market Osborne,1959](http://m.e-m-h.org/Osbo59.pdf) - Events past, present or even anticipated, often showing no apparent.
+- [Brownian Motion in the Stock Market Osborne,1959](http://m.e-m-h.org/Osbo59.pdf) - The common-stock prices can be regarded as an ensemble of decisions in statistical equilibrium.
 - [An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain(2015)](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
 - [Ten Financial Applications of Machine Learning (Presentation Slides)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726)
 - [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)

@@ -4,7 +4,7 @@
 
 Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
 
-[[English Resource](./README.md)] [[中文资源](./chinese.md)]
+[[English Resource](./README.md)]
 
 ## 策略
 
