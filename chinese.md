@@ -10,6 +10,10 @@ Machine learning algorithm and useful tools use in financial market, include tra
 
 - 🌟 [RL-Stock](https://github.com/wangshub/RL-Stock) - 如何用深度强化学习自动炒股.
 
+## 工具
+
+- [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件.
+
 ## 文章
 
 - [Maury Osborne和三文鱼的故事](https://zhuanlan.zhihu.com/p/20586843)
