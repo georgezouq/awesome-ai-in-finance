@@ -56,21 +56,21 @@ Price and Volume process with Technology Analysis Indices
 - 🌟🌟 [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A complete process for predicting stock price movements.
 - 🌟 [Personae](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
 - [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as a automated trading robots.
-- [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading Environment(OpenAI Gym) + PPO(TensorForce).
+- [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
 - [trading-gym](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
 - [trading-rl](https://github.com/Kostis-S-Z/trading-rl) - Deep Reinforcement Learning for Financial Trading using Price Trailing.
-- [deep_rl_trader](https://github.com/miroblog/deep_rl_trader) - Trading Environment(OpenAI Gym) + DDQN (Keras-RL).
-- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and Code Implements for Quantitative-Trading.
+- [deep_rl_trader](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
+- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and code implements for Quantitative-Trading.
 - [gym-trading](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models.
 - [zenbrain](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
-- [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock Trading Market OpenAI Gym Environment with Deep Reinforcement Learning using Keras.
+- [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 
 ### Portfolio Management
 
 - [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
-- [qtrader](https://github.com/filangel/qtrader) - Reinforcement Learning for Portfolio Management.
-- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem.
+- [qtrader](https://github.com/filangel/qtrader) - Reinforcement Learning for portfolio management.
+- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 - [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
 
 ### High Frequency Trading
@@ -86,9 +86,9 @@ Price and Volume process with Technology Analysis Indices
 ### Crypto Currencies Strategies
 
 - [LSTM-Crypto-Price-Prediction](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
-- [tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin Trading Bot.
+- [tforce_btc_trader](https://github.com/lefnire/tforce_btc_trader) - TensorForce Bitcoin trading bot.
 - [Tensorflow-NeuroEvolution-Trading-Bot](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
-- [gekkoga](https://github.com/gekkowarez/gekkoga) - Genetic Algorithm for solving optimization of trading strategies using Gekko.
+- [gekkoga](https://github.com/gekkowarez/gekkoga) - Genetic algorithm for solving optimization of trading strategies using Gekko.
 - [Gekko_ANN_Strategies](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
 - [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 - [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
@@ -103,8 +103,8 @@ Price and Volume process with Technology Analysis Indices
 - [EthTradingAlgorithm](https://github.com/Philipid3s/EthTradingAlgorithm) - Ethereum trading algorithm using Python 3.5 and the library ZipLine.
 - [gekko_trading_stuff](https://github.com/thegamecat/gekko-trading-stuff) - Awesome crypto currency trading platform.
 - [forex.analytics](https://github.com/mkmarek/forex.analytics) - Node.js native library performing technical analysis over an OHLC dataset with use of genetic algorithmv.
-- [Bitcoin_MACD_Strategy](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD Crossover Trading Strategy Backtest.
-- [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Automated Crypto Trading & Technical Analysis (TA) Bot for Bittrex, Binance, GDAX, and more.
+- [Bitcoin_MACD_Strategy](https://github.com/VermeirJellen/Bitcoin_MACD_Strategy) - Bitcoin MACD crossover trading strategy backtest.
+- [crypto-signal](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 - [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
 - [gekko-gannswing](https://github.com/johndoe75/gekko-gannswing) - Gann's Swing trade strategy for Gekko trade bot.
 
@@ -131,15 +131,15 @@ Price and Volume process with Technology Analysis Indices
 #### Crypto Currencies
 
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
-- [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko Trading Bot dataset dumps. Download and use history files in SQLite format.
+- [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 ## Research Tools
 
-- 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade Efficiently with Reinforcement Learning.
+- 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [JAQS](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 - [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
-- [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by zipline and pyfolio.
+- [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 - [zvt](https://github.com/zvtvz/zvt) - Zero vector trader.
 
 ## Trading System
@@ -150,11 +150,11 @@ For Back Test & Live trading
 
 **System**
 
-- 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A Python Algorithmic Trading Library.
+- 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 - [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
-- [backtrader](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-- [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master Trading System.
+- [backtrader](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
+- [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 
 **Combine & Rebuild**
 
@@ -166,7 +166,7 @@ For Back Test & Live trading
 - [zenbot](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
 - [bot18](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
 - [magic8bot](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
-- [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python.
+- [catalyst](https://github.com/enigmampc/catalyst) - An algorithmic trading library for Crypto-Assets in python.
 - [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
 - [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 - [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
@@ -180,7 +180,7 @@ For Back Test & Live trading
 
 - [pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 - [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Python-Pandas (70+ indicators).
-- [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. It provides over 100 technical analysis overlay and indicator functions.
+- [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 
 ## Exchange API
