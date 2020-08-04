@@ -1,15 +1,13 @@
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-> A curated list of useful resources for Financial AI
-
-Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
+Solving problems in finance with machine learning.
 
 [[中文资源](./chinese.md)]
 
 ## Contents
 
 - [Papers](#papers)
-- [Courses & Book](#courses--book)
+- [Courses & Books](#courses--books)
 - [Strategies & Research](#strategies--research)
   - [Time Series Data](#time-series-data)
   - [Portfolio Management](#portfolio-management)
@@ -39,7 +37,7 @@ Machine learning algorithm and useful tools use in financial market, include tra
 - [Machine Learning for Trading](https://cims.nyu.edu/~ritter/ritter2017machine.pdf) - With an appropriate choice of the reward function, reinforcement learning techniques can successfully handle the risk-averse case.
 - [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
 
-## Courses & Book
+## Courses & Books
 
 - [NYU: Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 - [Udacity: Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
