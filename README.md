@@ -1,6 +1,6 @@
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-Solving problems in finance with machine learning.
+    A curated list of awesome machine learning strategies & tools in financial market.
 
 [[中文资源](./chinese.md)]
 
