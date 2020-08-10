@@ -1,6 +1,9 @@
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-> A curated list of awesome machine learning strategies & tools in financial market.
+There are millions of trade made in the global financial market every day. Data grow very quickly and people are hard to understand.
+With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list with research, code & tools where people try to beat the market. 
+
+Hello, billionaires of the future!
 
 [[中文资源](./chinese.md)]
 
