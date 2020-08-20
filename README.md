@@ -3,8 +3,6 @@
 There are millions of trade made in the global financial market every day. Data grow very quickly and people are hard to understand.
 With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list with research, code & tools where people try to beat the market. 
 
-Hello, billionaires of the future!
-
 [[中文资源](./chinese.md)]
 
 ## Contents
