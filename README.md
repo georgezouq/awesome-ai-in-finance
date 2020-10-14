@@ -54,12 +54,12 @@ Price and Volume process with Technology Analysis Indices
 
 - 🌟🌟 [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - A complete process for predicting stock price movements.
 - 🌟 [Personae](https://github.com/Ceruleanacg/Personae) - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
-- [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as a automated trading robots.
+- [AutomatedStockTrading-DeepQ-Learning](https://github.com/sachink2010/AutomatedStockTrading-DeepQ-Learning) - Build a Deep Q-learning reinforcement agent model as automated trading robot.
 - [tf_deep_rl_trader](https://github.com/miroblog/tf_deep_rl_trader) - Trading environment(OpenAI Gym) + PPO(TensorForce).
 - [trading-gym](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
 - [trading-rl](https://github.com/Kostis-S-Z/trading-rl) - Deep Reinforcement Learning for Financial Trading using Price Trailing.
 - [deep_rl_trader](https://github.com/miroblog/deep_rl_trader) - Trading environment(OpenAI Gym) + DDQN (Keras-RL).
-- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and code implements for Quantitative-Trading.
+- [Quantitative-Trading](https://github.com/Ceruleanacg/Quantitative-Trading) - Papers and code implementing Quantitative-Trading.
 - [gym-trading](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models.
 - [zenbrain](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
