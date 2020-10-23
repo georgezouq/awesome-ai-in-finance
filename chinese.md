@@ -8,6 +8,7 @@ Machine learning algorithm and useful tools use in financial market, include tra
 
 ## 策略
 
+- 🌟 [FinBERT](https://github.com/valuesimplex/FinBERT) - 基于 BERT 架构的金融领域预训练语言模型，包括 金融短讯、行业类型分类、金融情绪分类、金融领域的命名实体识别.
 - 🌟 [RL-Stock](https://github.com/wangshub/RL-Stock) - 如何用深度强化学习自动炒股.
 
 ## 工具
