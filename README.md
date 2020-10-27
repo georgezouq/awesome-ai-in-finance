@@ -45,6 +45,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI in Finance](https://cfte.education/) - Learn Fintech Online.
 - [Advanced-Deep-Trading](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
 - [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books&ie=UTF8&qid=1541717436&sr=1-1) - Using advanced ML solutions to overcome real-world investment problems.
+- [Mastering Python for Finance](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 
 ## Strategies & Research
 
