@@ -2,7 +2,7 @@
 
 > A curated list of useful resources for Financial AI
 
-Machine learning algorithm and useful tools use in financial market, include traditional market like `stock/futures/currencies` and crypto currency markets.
+There are millions of trades made in the global financial market every day. Data grows very quickly and people are hard to understand. With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list contains the research, tools and code that people use to beat the market.
 
 [[English Resource](./README.md)]
 
@@ -13,6 +13,7 @@ Machine learning algorithm and useful tools use in financial market, include tra
 
 ## 工具
 
+- [wondertrader](https://github.com/wondertrader/wondertrader) - 量化研发交易一站式框架.
 - [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件.
 
 ## 文章
