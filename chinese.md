@@ -10,6 +10,7 @@ There are millions of trades made in the global financial market every day. Data
 
 - 🌟 [FinBERT](https://github.com/valuesimplex/FinBERT) - 基于 BERT 架构的金融领域预训练语言模型，包括 金融短讯、行业类型分类、金融情绪分类、金融领域的命名实体识别.
 - 🌟 [RL-Stock](https://github.com/wangshub/RL-Stock) - 如何用深度强化学习自动炒股.
+- [ssq](https://github.com/Liang-yc/ssq) - 利用神经网络和LSTM预测双色球.
 
 ## 工具
 
