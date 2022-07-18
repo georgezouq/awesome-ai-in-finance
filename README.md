@@ -207,6 +207,7 @@ Do it in real world!
 
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks.
 - [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+- [KLineChart](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
 ### GYM Environment
 
