@@ -40,8 +40,9 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
 
-## Courses & Books
+## Courses & Books & Blogs
 
+- 🌟 [QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests https://letianzj.github.io/
 - [NYU: Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 - [Udacity: Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 - [AI in Finance](https://cfte.education/) - Learn Fintech Online.
