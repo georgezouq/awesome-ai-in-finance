@@ -16,6 +16,7 @@ There are millions of trades made in the global financial market every day. Data
 
 - [wondertrader](https://github.com/wondertrader/wondertrader) - 量化研发交易一站式框架.
 - [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件.
+- [openctp](https://github.com/krenx1983/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。
 
 ## 文章
 
