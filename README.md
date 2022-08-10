@@ -71,6 +71,7 @@ Price and Volume process with Technology Analysis Indices
 - [DeepLearningNotes](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
 - [stock_market_reinforcement_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+- [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 
 ### Portfolio Management
 
