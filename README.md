@@ -7,6 +7,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Contents
 
+- [LLMs](#llms)
 - [Papers](#papers)
 - [Courses & Books](#courses--books)
 - [Strategies & Research](#strategies--research)
@@ -25,6 +26,10 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Exchange API](#exchange-api)
 - [Articles](#articles)
 - [Others](#others)
+
+## LLMs
+
+- [A ChatGPT trading algorithm delivered 500% returns in stock market. My breakdown on what this means for hedge funds and retail investors](https://www.reddit.com/r/ChatGPT/comments/13duech/a_chatgpt_trading_algorithm_delivered_500_returns/)
 
 ## Papers
 
