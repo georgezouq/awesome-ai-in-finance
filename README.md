@@ -152,6 +152,7 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
+- [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 - [JAQS](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
