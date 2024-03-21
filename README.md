@@ -242,6 +242,7 @@ Do it in real world!
 
 - [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
 - [gekko-quasar-ui](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
+- [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 
 #### Other Resource
 
