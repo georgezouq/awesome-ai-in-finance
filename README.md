@@ -175,6 +175,7 @@ For Back Test & Live trading
 
 **System**
 
+- 🌟🌟🌟 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 - 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 - [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
