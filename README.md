@@ -152,6 +152,7 @@ Price and Volume process with Technology Analysis Indices
 - 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
+- [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
 
 #### Crypto Currencies
 
