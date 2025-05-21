@@ -121,6 +121,7 @@ Price and Volume process with Technology Analysis Indices
 
 ### Technical Analysis
 
+- [QTradeX](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
 - [quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies.
 - [Gekko-Bot-Resources](https://github.com/cloggy45/Gekko-Bot-Resources) - Gekko bot resources.
 - [gekko_tools](https://github.com/tommiehansen/gekko_tools) - Gekko strategies, tools etc.
