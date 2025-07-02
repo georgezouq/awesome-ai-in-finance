@@ -7,6 +7,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Contents
 
+- [Agents](#agents)
 - [LLMs](#llms)
 - [Papers](#papers)
 - [Courses & Books](#courses--books)
@@ -27,9 +28,13 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Articles](#articles)
 - [Others](#others)
 
+## Agents
+
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
+- 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
+
 ## LLMs
 
-- 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - 🌟 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 - 🌟🌟 [MarS](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 - 🌟🌟 [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) - GPT-4 can outperform professional financial analysts in predicting future earnings changes, generating useful narrative insights, and resulting in superior trading strategies with higher Sharpe ratios and alphas, thereby suggesting a potential central role for LLMs in financial decision-making.
