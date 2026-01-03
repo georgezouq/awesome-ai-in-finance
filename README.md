@@ -165,6 +165,7 @@ Price and Volume process with Technology Analysis Indices
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+- 🌟 [Vedika Astrology Finance API](https://vedika.io) - AI-powered Vedic astrology API for financial markets - muhurta timing, planetary transits, dasha periods, and market sentiment analysis
 
 #### Crypto Currencies
 
