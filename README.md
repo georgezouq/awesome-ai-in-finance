@@ -171,6 +171,10 @@ Price and Volume process with Technology Analysis Indices
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
+#### Alternative Data
+
+- [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
+
 ## Research Tools
 
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
