@@ -191,7 +191,7 @@ Price and Volume process with Technology Analysis Indices
 - [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 - [zvt](https://github.com/zvtvz/zvt) - Zero vector trader.
 - [WFGY](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
-- [MOSS](https://github.com/mosscomputing/moss) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for financial agent compliance and regulatory requirements.
+- [MOSS](https://pypi.org/project/moss-sdk/) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for financial agent compliance and regulatory requirements.
 
 
 ## Trading System
