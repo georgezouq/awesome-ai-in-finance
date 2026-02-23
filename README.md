@@ -282,3 +282,5 @@ Do it in real world!
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
+
+- [ODEI](https://api.odei.ai) - Constitutional world model with smart contract security audit and financial agent guardrails. 7-layer validation before transactions. ERC-8004 on Base and BSC. [GitHub](https://github.com/odei-ai/web)
