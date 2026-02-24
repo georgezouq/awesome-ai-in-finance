@@ -201,6 +201,7 @@ For Back Test & Live trading
 
 **System**
 
+- [the0](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
 - 🌟🌟🌟 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 - 🌟🌟 [zipline](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
