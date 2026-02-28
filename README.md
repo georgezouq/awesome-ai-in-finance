@@ -180,6 +180,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### Alternative Data
 
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset of 95 AI-attributed workforce reduction events (454K workers) across 13 countries. Includes company names, dates, affected worker counts, sectors, and attribution methodology. Useful as alternative economic signal data.
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
 ## Research Tools
