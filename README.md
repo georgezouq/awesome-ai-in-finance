@@ -144,6 +144,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### Crypto Currencies
 
+- [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Free unified API for 35+ AI agent infrastructure services. Provides real-time crypto prices for 500+ tokens (via Hyperliquid), no API key required for basic use.
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live cryptocurrency historical trade data blotter. Download live historical trade data from any cryptoexchange, be it for machine learning, backtesting/visualizing trading strategies or for Quantopian/Zipline.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko Trading Bot dataset dumps. Ready to use and download history files in SQLite format.
 
