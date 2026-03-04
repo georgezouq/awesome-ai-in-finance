@@ -171,6 +171,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### Crypto Currencies
 
+- [Crypto Feeds API](https://api-catalog-three.vercel.app/tools/crypto-prices) - Free real-time cryptocurrency price API with 500+ tokens. No API key required for basic queries. Returns JSON with price, 24h change, market cap, and volume.
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [CoinPulse](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
