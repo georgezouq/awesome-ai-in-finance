@@ -172,6 +172,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [CoinPulse](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
+- [defi-mcp](https://github.com/OzorOwn/defi-mcp) - MCP server providing real-time DeFi data for AI agents — token prices, gas fees, DEX swap quotes, and wallet balances across 9 chains. Integrates with Claude and Cursor via Model Context Protocol.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 #### News Data
