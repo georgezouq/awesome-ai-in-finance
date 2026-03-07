@@ -168,6 +168,7 @@ Price and Volume process with Technology Analysis Indices
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+- [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
 #### Crypto Currencies
 
