@@ -34,6 +34,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
+- 🌟 [ATLAS](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch (prompts are the weights, Sharpe is the loss function), Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 
 ## LLMs
 
