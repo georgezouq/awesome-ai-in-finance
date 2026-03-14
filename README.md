@@ -282,6 +282,7 @@ Do it in real world!
 - [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 - [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 - [Registry Broker](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 
 #### Other Resource
 
