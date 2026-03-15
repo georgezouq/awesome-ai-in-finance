@@ -248,6 +248,7 @@ For Back Test & Live trading
 
 Do it in real world!
 
+- [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 - [IbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
 - [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 - [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
