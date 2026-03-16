@@ -34,8 +34,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
-- [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server (mcp.philidor.io) and REST API (api.philidor.io) for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
-- 
+- 🌟 [ATLAS](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
@@ -79,6 +79,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Mastering Python for Finance](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 - [Train and Deploy a Serverless API to predict crypto prices](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 
 ## Strategies & Research
 
@@ -189,6 +190,10 @@ Price and Volume process with Technology Analysis Indices
 
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
+#### Prediction Markets
+
+- [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
+
 ## Research Tools
 
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
@@ -250,6 +255,7 @@ For Back Test & Live trading
 
 Do it in real world!
 
+- [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 - [IbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
 - [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 - [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
@@ -284,6 +290,7 @@ Do it in real world!
 - [Floom](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 - [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 - [Registry Broker](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
+- [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
 
 #### Other Resource
 
