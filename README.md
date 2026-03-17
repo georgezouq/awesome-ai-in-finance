@@ -104,6 +104,7 @@ Price and Volume process with Technology Analysis Indices
 - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 - [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 - [patternity](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
+- [Quantium Research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ### Portfolio Management
 
