@@ -51,6 +51,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Use chatgpt to adjust strategy parameters](https://twitter.com/0xUnicorn/status/1663413848593031170)
 - [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 - [ChatGPT Strategy by OctoBot](https://blog.octobot.online/trading-using-chat-gpt) - Use ChatGPT to determine which cryptocurrency to trade based on technical indicators.
+- [LLMs Meet Finance](https://arxiv.org/abs/2504.13125) - A three-stage fine-tuning pipeline (SFT → DPO → synthetic-data RL) that adapts Qwen2.5 and DeepSeek-R1 to financial tasks on the Open FinLLM Leaderboard, with findings on cross-task transfer and data scaling laws in finance.
 
 ## Papers
 
