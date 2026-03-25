@@ -54,6 +54,10 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [ChatGPT Strategy by OctoBot](https://blog.octobot.online/trading-using-chat-gpt) - Use ChatGPT to determine which cryptocurrency to trade based on technical indicators.
 - [LLMs Meet Finance](https://arxiv.org/abs/2504.13125) - A three-stage fine-tuning pipeline (SFT → DPO → synthetic-data RL) that adapts Qwen2.5 and DeepSeek-R1 to financial tasks on the Open FinLLM Leaderboard, with findings on cross-task transfer and data scaling laws in finance.
 
+## Skills
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
 ## Papers
 
 - [The Theory of Speculation L. Bachelier, 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf) - The influences which determine the movements of the Stock Exchange are.
@@ -311,3 +315,4 @@ Do it in real world!
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
+
