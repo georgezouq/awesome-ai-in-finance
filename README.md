@@ -31,6 +31,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 ## Agents
 
 - 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
+- [TradeSight](https://github.com/rmbell09-lang/tradesight) - AI-powered paper trading system with tournament-based strategy evolution, 15+ technical indicators, multi-market scanning, and autonomous strategy optimization.
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
