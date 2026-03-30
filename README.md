@@ -154,6 +154,7 @@ Price and Volume process with Technology Analysis Indices
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 - [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by zipline and pyfolio.
 - [zvt](https://github.com/zvtvz/zvt) - Zero vector trader.
+- [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests U.S. STOCK Act congressional trade disclosures and converts them into machine-scored signals for retail investors.
 
 ## Trading System
 
