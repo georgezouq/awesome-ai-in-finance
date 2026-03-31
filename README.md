@@ -237,6 +237,7 @@ For Back Test & Live trading
 - [rqalpha](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
 - [backtrader](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
 - [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+- [finclaw](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 - [lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 **Combine & Rebuild**
