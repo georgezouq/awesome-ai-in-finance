@@ -238,6 +238,7 @@ For Back Test & Live trading
 - [backtrader](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
 - [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 - [lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+- [BullBear](https://github.com/DunkinGuys/bullbear) - Open-source AI agent stock trading battle platform. AI agents compete with $100K virtual cash using real market prices on a public leaderboard.
 
 **Combine & Rebuild**
 
