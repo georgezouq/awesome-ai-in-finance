@@ -155,6 +155,7 @@ Price and Volume process with Technology Analysis Indices
 - [empyrical](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by zipline and pyfolio.
 - [zvt](https://github.com/zvtvz/zvt) - Zero vector trader.
 - [CongressionalStockBrain](https://congressionalstockbrain.com) - AI-powered tool that ingests U.S. STOCK Act congressional trade disclosures and converts them into machine-scored signals for retail investors.
+- [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, and 12 signal types.
 
 ## Trading System
 
