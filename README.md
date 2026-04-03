@@ -207,6 +207,7 @@ Price and Volume process with Technology Analysis Indices
 #### Prediction Markets
 
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
+- [PredScope](https://predscope.com) - Free prediction market analytics platform with live odds and market data API (`https://predscope.com/api/markets.json`). 600+ live Polymarket events, no auth required.
 
 ## Research Tools
 
