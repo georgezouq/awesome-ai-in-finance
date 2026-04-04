@@ -210,6 +210,7 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
+- [VeroQ Shield](https://github.com/veroq-ai/shield) - Verify any LLM output in one function call. Claim-level fact-checking with evidence chains, 1,061+ tickers, trading signals, verification receipts for compliance. Python and TypeScript SDKs.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
