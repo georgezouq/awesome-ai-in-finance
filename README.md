@@ -141,6 +141,7 @@ Price and Volume process with Technology Analysis Indices
 - 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic datasets from hundreds of publishers via a single free API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks.
+- [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
 
 #### Crypto Currencies
 
