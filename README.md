@@ -225,6 +225,7 @@ Price and Volume process with Technology Analysis Indices
 - [ChainPulse](https://github.com/Bortlesboat/chainpulse) - AI-powered Bitcoin network intelligence CLI for natural language queries on mempool, fees, blocks, and mining analysis.
 - [CRNG](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=georgezouq_awesome-ai-in-finance) - Follow developers on GitHub and get a feed of what they star and build.
 ## Trading System
 
 For Back Test & Live trading
