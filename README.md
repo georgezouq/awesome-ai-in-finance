@@ -184,6 +184,7 @@ Price and Volume process with Technology Analysis Indices
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
 - [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
+- [13F Insight](https://13finsight.com/) - AI-powered institutional holdings analysis platform that turns SEC 13F filings into manager-level change detection, concentration signals, and filing-season alerts.
 
 #### Crypto Currencies
 
