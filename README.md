@@ -184,6 +184,7 @@ Price and Volume process with Technology Analysis Indices
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
 - [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
+- [FinanceKit MCP](https://github.com/vdalhambra/financekit-mcp) - MCP server with 17 tools for AI agents: real-time stock quotes, technical analysis (RSI, MACD, Bollinger, ADX, Stochastic + Golden/Death Cross detection with structured verdicts), crypto via CoinGecko, risk metrics (VaR, Sharpe, Sortino, Beta), correlation matrix, options chains, earnings calendar, sector rotation, portfolio analysis. No API keys. Works with Claude Desktop, Cursor, Windsurf.
 
 #### Crypto Currencies
 
