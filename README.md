@@ -160,6 +160,7 @@ Price and Volume process with Technology Analysis Indices
 - [gekko-gannswing](https://github.com/johndoe75/gekko-gannswing) - Gann's Swing trade strategy for Gekko trade bot.
 - [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts using pattern recognition algorithms
 * [MarginSafe.ai](https://marginsafe.ai) - AI stock analysis platform specialized in intrinsic value and Wyckoff timing.
+- [TrendRider Strategy](https://github.com/darkvolg/trendrider-strategy) - Open-source Freqtrade crypto trading strategy for Bybit with a novel cascading early-loss exit ladder (-1.5% at 2h, BE at 4h, +0.5% at 8h, +1% at 16h, forced 24h). Multi-timeframe entries on BTC/ETH/SOL + 15 altcoins using 6 TA signals (EMA, RSI, ADX, volume, BB, MACD). Backtest delta vs flat timeout: +69% profit, -77% drawdown. Public live dry-run dashboard at [trendrider.net/live](https://trendrider.net/live). MIT.
 
 ### Lottery & Gamble
 
