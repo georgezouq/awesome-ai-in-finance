@@ -200,6 +200,7 @@ Price and Volume process with Technology Analysis Indices
 #### News Data
 
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+- [Helium](https://heliumtrades.com/mcp-page/) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. Available as [MCP server](https://github.com/connerlambden/helium-mcp) or REST API.
 
 #### Alternative Data
 
