@@ -257,7 +257,7 @@ For Back Test & Live trading
 - [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
 - [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 - [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
-- [SignalFuse](https://github.com/cferjo/signalfuse-starter-bot) - AI-powered crypto trading signal engine using contextual bandits (UCB) for autonomous strategy selection. Fuses social sentiment, macro regime, and market structure signals to trade Hyperliquid perpetuals.
+- [SignalFuse](https://github.com/hypeprinter007-stack/signalfuse-starter-bot) - AI-powered crypto trading signal engine using contextual bandits (UCB) for autonomous strategy selection. Fuses social sentiment, macro regime, and market structure signals to trade Hyperliquid perpetuals.
 
 #### Plugins
 
