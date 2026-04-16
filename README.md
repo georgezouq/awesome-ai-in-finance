@@ -182,6 +182,7 @@ Price and Volume process with Technology Analysis Indices
 - [Tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+- [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
 - [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
