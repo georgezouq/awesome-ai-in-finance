@@ -6,6 +6,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 [[中文资源](./chinese.md)]
 
 ## Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [Agents](#agents)
 - [LLMs](#llms)
