@@ -261,6 +261,7 @@ For Back Test & Live trading
 - [QuantResearchDev](https://github.com/mounirlabaied/QuantResearchDev) - Quant Research dev & Traders open source project.
 - [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 - [abu](https://github.com/bbfamily/abu) - A quant trading system base on python.
+- [cipher-layer-k](https://github.com/cryptomotifs/cipher-layer-k) - Solana autonomous trading module in Python: 8-category confirmation matrix, IC-weighted ensemble, eighth-Kelly sizing, staged rollout, circuit breaker. MIT. 48 tests green.
 
 #### Plugins
 
