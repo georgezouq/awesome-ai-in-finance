@@ -72,6 +72,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
+- [Enterprise AI Governance for Financial Services, 2025](https://8bitconcepts.com/papers/enterprise-ai-governance) - Research on AI governance frameworks, compliance automation, and risk management for regulated financial institutions deploying ML systems.
 
 ## Courses & Books & Blogs
 
@@ -215,6 +216,7 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
+- [AI Dev Jobs](https://aidevboard.com) - AI/ML job board with REST API and MCP server. 5,300+ jobs across ML engineering, data science, and AI research roles. Tracks AI hiring trends in fintech and quantitative finance.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
