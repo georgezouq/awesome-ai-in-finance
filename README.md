@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/georgezouq-awesome-ai-in-finance-badge.png)](https://mseep.ai/app/georgezouq-awesome-ai-in-finance)
+
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
 There are millions of trades made in the global financial market every day. Data grows very quickly and people are hard to understand.
