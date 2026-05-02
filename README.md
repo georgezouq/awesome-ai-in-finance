@@ -142,6 +142,7 @@ Price and Volume process with Technology Analysis Indices
 - [Gekko_ANN_Strategies](https://github.com/markchen8717/Gekko_ANN_Strategies) - ANN trading strategies for the Gekko trading bot.
 - [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 - [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI-powered crypto trading bot with 3-model ML ensemble (XGBoost, LightGBM, CatBoost), 12 exchanges via CCXT, walk-forward validated.
 
 ### Technical Analysis
 
