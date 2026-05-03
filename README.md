@@ -211,6 +211,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
+- [VC Deal Flow Signal](https://huggingface.co/datasets/the-data-nerd/vc-deal-flow-signal) - Open longitudinal panel of GitHub-derived engineering-velocity signals (14-day commit cadence, contributor growth, signal-type classification) across venture-backed startups, designed for VC deal flow research and alternative-data ML. 309 rows across three configs, CC BY 4.0, DOI 10.5281/zenodo.19650920.
 
 #### Prediction Markets
 
