@@ -7,6 +7,9 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI agent monitoring dashboard for OpenClaw
+
+
 - [Agents](#agents)
 - [LLMs](#llms)
 - [Papers](#papers)
