@@ -332,3 +332,4 @@ Do it in real world!
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
 - [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+- [EventTrader](https://cymetica.com) - AI prediction market platform. AI-powered financial analytics and prediction platform on Base L2. Market analysis tools, autonomous trading agents, and real-time price predictions. [Agent Card](https://cymetica.com/.well-known/agent-card.json)
