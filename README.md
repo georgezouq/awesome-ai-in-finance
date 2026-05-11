@@ -202,6 +202,7 @@ Price and Volume process with Technology Analysis Indices
 - [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
 - [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence API with 108 endpoints for fee estimates, mempool analysis, block data, and mining stats. Self-hostable, Apache 2.0.
 - [TBD Predict](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+- [anchor-x402](https://anchor-x402.com) - x402 pay-per-call API and MCP server for wallet sanctions/AML screening, bundled wallet intelligence (balances + activity + identity + risk), cross-chain name resolution (ENS + SNS), USD token prices, transaction & calldata decoding, plus dual-chain hash anchoring of decisions on Base + Solana mainnet. No API keys; USDC per call.
 
 #### News Data
 
