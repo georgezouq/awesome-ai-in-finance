@@ -188,6 +188,7 @@ Price and Volume process with Technology Analysis Indices
 - [13F Insight](https://13finsight.com) - AI-powered 13F SEC filing tracker. Monitor hedge fund and institutional investor portfolio changes, with smart money move alerts and historical holding comparisons.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 - [BenchGecko](https://benchgecko.ai) - AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.
+- [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with body-text-classified 8-Ks (flags items the filer didn't report — 7.3% of recent Item 8.01 filings have buried 1.05/5.02/etc. events), Schedule 13D/G with 21+ activist filers auto-tagged (Saba/Bulldog/Icahn/Elliott/Starboard/etc.), S-3/424B5 ATM offering detection. Hosted MCP server at `https://filingfirehose.com/mcp`. Also exposed as ChatGPT GPT, Python SDK, GitHub Action. Free public tier (last 72h), paid tier $29-$299/mo or $999 lifetime.
 
 #### Crypto Currencies
 
