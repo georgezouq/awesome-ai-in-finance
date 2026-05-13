@@ -38,6 +38,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 - [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
+- [CFA Institute's "The Automation Ahead"](https://github.com/CFA-Institute-RPC/The-Automation-Ahead/tree/main) - Set of submodules demonstrating various workflows relevant to the investment decision making process. 
 
 ## LLMs
 
@@ -58,6 +59,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 ## Skills
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [CFA Institute](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis Apache 2.0
+- [Ethical Capital](https://github.com/ethicalcapital/claude-skills) - Registered Investment Adviser's production claude skills stack including investment research, exclusionary screening, anti-racist analysis, compliance, marketing.... 
 
 ## Papers
 
