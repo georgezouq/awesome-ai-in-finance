@@ -29,6 +29,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Others](#others)
 
 ## Agents
+- [AI Agent Accountability Standard](https://github.com/addvalueorbesubtracted/ai-agent-accountability-standard) - Open standard for AI agent task accountability in financial & enterprise contexts. Defines task schemas, evidence requirements, graduated slashing rubrics, and identity tiers (T1–T6) for on-chain Performance Bonds. IPFS-pinned, MIT licensed.
 
 - 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
