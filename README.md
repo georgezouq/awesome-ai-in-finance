@@ -233,6 +233,7 @@ Price and Volume process with Technology Analysis Indices
 - [CRNG](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 - [Chart Library](https://chartlibrary.io) - Visual chart pattern search engine. Upload a screenshot or type a ticker+date to find the 10 most similar historical chart patterns and see what happened next. 24M+ embeddings, 19K symbols, REST API + MCP server.
 - [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Compare LLM costs for financial applications.
 
 ## Trading System
 
