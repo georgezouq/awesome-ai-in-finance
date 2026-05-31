@@ -58,6 +58,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 ## Skills
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill) — Claude Code skill for passive income portfolio analysis: US Treasuries, dividend ETFs, REITs, and portfolio yield optimization. MIT.
 
 ## Papers
 
