@@ -39,6 +39,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - AI-powered multi-agent finance research workspace that turns natural language into trading strategies, cross-market backtests, portfolio analysis, and research insights.
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
+- [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Autonomous trading agent for Kalshi, Polymarket, and Solana DFlow with Wang Transform pricing (calibrated on 291k resolved contracts, λ̂ = 0.183), eight constraint-based arbitrage strategies, hierarchical MLE, and Kelly-sized execution. Apache 2.0; methodology in companion SSRN working paper.
 
 ## LLMs
 
