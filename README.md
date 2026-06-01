@@ -233,6 +233,7 @@ Price and Volume process with Technology Analysis Indices
 - [CRNG](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 - [Chart Library](https://chartlibrary.io) - Visual chart pattern search engine. Upload a screenshot or type a ticker+date to find the 10 most similar historical chart patterns and see what happened next. 24M+ embeddings, 19K symbols, REST API + MCP server.
 - [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
+- [YIELD INTELLIGENCE](https://thebrierfox.github.io/yield-intelligence/) - Free AI-powered passive income analyzer with live U.S. Treasury rates, dividend stock screening, portfolio yield calculator, and Claude AI-generated fixed income analysis.
 
 ## Trading System
 
@@ -332,3 +333,4 @@ Do it in real world!
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
 - [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
