@@ -39,7 +39,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - AI-powered multi-agent finance research workspace that turns natural language into trading strategies, cross-market backtests, portfolio analysis, and research insights.
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
-- [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Autonomous trading agent for Kalshi, Polymarket, and Solana DFlow with Wang Transform pricing (calibrated on 291k resolved contracts, λ̂ = 0.183), eight constraint-based arbitrage strategies, hierarchical MLE, and Kelly-sized execution. Apache 2.0; methodology in companion SSRN working paper.
+- [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
 
 ## LLMs
 
@@ -188,13 +188,14 @@ Price and Volume process with Technology Analysis Indices
 - [Tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. STOCK Act congressional trade disclosures by significance. Committee weighting, timing analysis, 537 members tracked.
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
-- [Tapetide](https://tapetide.com) - AI-first stock research API and MCP server for Indian markets (NSE & BSE). Covers all 8,200+ listed stocks with quotes, financials, a 326-ratio screener, and FII/DII institutional flows. Free tier, MCP access for AI agents.
+- [FinanceKit MCP](https://github.com/vdalhambra/financekit-mcp) - MCP server for stock quotes, technical analysis, crypto data, risk metrics, and portfolio analysis. No API keys for core data.
+- [Tapetide](https://tapetide.com) - Indian market data API and MCP server for NSE/BSE stocks, financials, screeners, and institutional flows.
 - [FXMacroData](https://fxmacrodata.com) - Macroeconomic and FX data API with central bank announcements, policy rates, inflation, employment, GDP, release calendars, and MCP access for 18 currencies.
 - [StockAInsights](https://stockainsights.com) - Institutional-grade financial statements API with AI extraction from SEC filings — not XBRL. Covers domestic and foreign filers (20-F, 6-K, 40-F), normalized quarterly and annual data.
 - [13F Insight](https://13finsight.com) - AI-powered 13F SEC filing tracker. Monitor hedge fund and institutional investor portfolio changes, with smart money move alerts and historical holding comparisons.
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 - [BenchGecko](https://benchgecko.ai) - AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.
-- [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with body-text-classified 8-Ks (flags items the filer didn't report — 7.3% of recent Item 8.01 filings have buried 1.05/5.02/etc. events), Schedule 13D/G with 21+ activist filers auto-tagged (Saba/Bulldog/Icahn/Elliott/Starboard/etc.), S-3/424B5 ATM offering detection. Hosted MCP server at `https://filingfirehose.com/mcp`. Also exposed as ChatGPT GPT, Python SDK, GitHub Action. Free public tier (last 72h), paid tier $29-$299/mo or $999 lifetime.
+- [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.
 
 #### Crypto Currencies
 
