@@ -3,6 +3,7 @@
 There are millions of trades made in the global financial market every day. Data grows very quickly and people are hard to understand.
 With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list contains the research, tools and code that people use to beat the market.
 
+- [WalletLens](https://walletlens.live) — Free multi-asset portfolio tracker with built-in AI analysis (portfolio health score, sell plans, risk scoring). No account required.
 [[中文资源](./chinese.md)]
 
 ## Contents
