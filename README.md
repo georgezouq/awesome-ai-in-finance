@@ -211,6 +211,7 @@ Price and Volume process with Technology Analysis Indices
 - [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence API with 108 endpoints for fee estimates, mempool analysis, block data, and mining stats. Self-hostable, Apache 2.0.
 - [Sharpe](https://www.sharpe.ai/docs/free-api) - Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.
 - [TBD Predict](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+[Athenum](https://athenum.xyz) - Unified crypto and derivatives analytics terminal that aggregates order flow, open interest, and liquidity across 14 exchanges, with funding rate analytics, options flow and max pain, whale-wall market depth, and a macro layer (FRED, FOMC, ETF flows). Free tier and a 7-day Pro+ trial.
 
 #### News Data
 
