@@ -30,6 +30,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Agents
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Pre-dispatch trust gating for AI agents on Solana. `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt` (free) + `get_trust_receipt` (paid via x402/USDC, <1s settlement). Zero-install MCP: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 - 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
