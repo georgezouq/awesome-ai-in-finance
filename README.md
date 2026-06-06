@@ -40,6 +40,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
 - [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust infrastructure MCP server for AI agents handling Solana payments. Provides `score_agent`, `preflight_check`, and `verify_trust_receipt` (free) plus `get_trust_receipt` (signed V5 receipt, paid via x402 USDC micropayment). Designed for agents that need to verify counterpart reputation before executing financial transactions.
 
 ## LLMs
 
