@@ -78,7 +78,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
 
 ## Courses & Books & Blogs
-
+- [Elearnmarkets](https://www.elearnmarkets.com/) – Online financial education platform offering structured courses, webinars, and articles on stock investing and trading.
 - 🌟 [QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests https://letianzj.github.io/
 - [NYU: Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome)
 - [Udacity: Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
@@ -227,7 +227,7 @@ Price and Volume process with Technology Analysis Indices
 - [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 
 ## Research Tools
-
+- [StockEdge](https://web.stockedge.com/) – Comprehensive financial market analytics and research platform for equities, mutual funds, and derivatives.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
