@@ -59,6 +59,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Skills
 
+- [financeskills](https://github.com/GAJETOso/financeskills) - AI-powered skills for financial professionals. Covers audit, compliance, reconciliation, journal entries, and financial statements. IFRS/GAAP compliant.
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 - [CFA Institute Bias Detection](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
 - [Ethical Capital Skills](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
