@@ -41,6 +41,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
 - [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
 
+- [Melaya](https://melaya.org) - Hosted agentic trading platform with a 7-persona AI trading crew (Macro, TA, Quant, Sentiment, Risk, Portfolio, Execution) plus 4 sidecar watchers. HITL approval on every order. Bring any of 20+ AI providers per persona. Wired to an in-house Rust trading engine at 420 ns per bar across 65 CEX and 6 prediction markets. Dry-run mode end to end on live market data before flipping any live key.
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
