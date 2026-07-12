@@ -10,7 +10,7 @@ You'll need a [GitHub account](https://github.com/join)!
 2. Click on the `README.md` file
 3. Now click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above.
-5. Say why you're proposing the changes, and then click on "Propose file change". 
+5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
