@@ -228,6 +228,8 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
+- [Investor Bias Check](https://ordinarymantrying.com/tools/investor-bias-check.html) - 8 behavioral finance questions that reveal whether you are holding a position on a live thesis or emotional attachment. Free, no signup.
+- [Sell Signal Checklist](https://ordinarymantrying.com/tools/sell-signal-checklist.html) - 6 questions that separate the investment case from the ego case. Identifies when to sell vs. when you are avoiding admitting a mistake.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
