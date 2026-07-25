@@ -228,6 +228,8 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
+- [My AI Investment OS](https://ordinarymantrying.com/tools/ai-invest-os.html) - Free 5-question diagnostic that identifies your investing school (Index/Value/Growth/Trend), delivers an 8-AI committee verdict, and generates a personalized Prompt Library. Includes 6 companion tools: DCA Simulator, Recovery Navigator, Dividend Engine, Kelly Master, Pyramid Builder, Portfolio Clarity. No login required.
+
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
