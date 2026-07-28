@@ -9,6 +9,11 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 - [Agents](#agents)
 - [LLMs](#llms)
+- [Skills](#skills)
+- [MCP Servers](#mcp-servers)
+  - [Market Data](#market-data)
+  - [Trading Execution](#trading-execution)
+  - [Research & Analysis](#research--analysis)
 - [Papers](#papers)
 - [Courses & Books](#courses--books)
 - [Strategies & Research](#strategies--research)
@@ -62,6 +67,42 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 - [CFA Institute Bias Detection](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
 - [Ethical Capital Skills](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
+
+## MCP Servers
+
+Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers that connect AI assistants (Claude, Cursor, VS Code Copilot, etc.) directly to financial data and trading APIs.
+
+### Market Data
+
+- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - 30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.
+- [dgunning/edgartools](https://github.com/dgunning/edgartools) - 11 MCP tools for SEC EDGAR — every filing type (10-K, 10-Q, 8-K, S-1), no API key required; 1,800+ Smithery installs.
+- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - Structured access to income statements, balance sheets, cash flows, stock prices, and market news via the Financial Datasets API.
+- [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) - Integrates Tushare (Chinese A-shares, funds, bonds, macro) and Binance (crypto) for LLM financial data access.
+- [TickDB/tickdb-unified-realtime-marketdata-api](https://github.com/TickDB/tickdb-unified-realtime-marketdata-api) - 13-tool unified real-time and historical market data across Forex, US/HK/CN stocks, and crypto.
+- [massive-com/mcp_massive](https://github.com/massive-com/mcp_massive) - Polygon.io professional-grade real-time and historical data for stocks, forex, crypto, and options.
+- [Alex2Yang97/yahoo-finance-mcp](https://github.com/Alex2Yang97/yahoo-finance-mcp) - Yahoo Finance MCP: stock quotes, financials, options chains, and market news.
+- [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp) - AKShare API for Chinese stock market: historical prices, real-time quotes, financial reports, and news.
+- [alphavantage/alpha_vantage_mcp](https://github.com/alphavantage/alpha_vantage_mcp) - **Official** Alpha Vantage MCP server: real-time and historical data for stocks, forex, crypto, options, and ETFs.
+- [imbenrabi/Financial-Modeling-Prep-MCP-Server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
+- [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
+- [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
+
+### Trading Execution
+
+- [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) - **Official** Alpaca MCP server: natural-language trading of US stocks, ETFs, options, and crypto.
+- [krakenfx/kraken-cli](https://github.com/krakenfx/kraken-cli) - **Official** Kraken AI-native CLI with built-in MCP support for spot trading, portfolio management, and market data.
+- [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) - MCP bridge to MetaTrader 5 for natural-language trade execution and live position tracking across forex and futures.
+- [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - 22-tool MCP server for 60+ EVM-compatible networks: token balances, smart contracts, and DeFi operations.
+- [okx/agent-trade-kit](https://github.com/okx/agent-trade-kit) - **Official** OKX MCP server: AI agent trading of spot, perpetuals, and futures with full order management.
+- [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
+- [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
+- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+
+### Research & Analysis
+
+- [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Open-source memory MCP for AI trading agents: three-layer architecture (raw memory → pattern reflection → strategy evolution).
+- [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 
 ## Papers
 
