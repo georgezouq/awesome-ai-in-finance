@@ -67,6 +67,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 - [CFA Institute Bias Detection](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
 - [Ethical Capital Skills](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
+- [Trading Ledger](https://github.com/cruisekkk/trading-ledger) - Claude skill for trading journaling: captures thesis, plan, and emotion at entry into the user's own Notion database, with weekly reviews that grade decisions rather than P&L. MIT.
 
 ## MCP Servers
 
