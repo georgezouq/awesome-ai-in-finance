@@ -376,6 +376,8 @@ Do it in real world!
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
 
 ## Others
+- [DAUDIT](https://www.daudit.net) - Decision-context engine that audits investment and business decisions across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit to irreversible decisions.
+
 
 - [zipline-tensorboard](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
 - [gekko-quasar-ui](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
