@@ -49,6 +49,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - Evidence-driven market recap CLI for AI agents, producing Markdown reports and JSON Evidence Packs for A/HK/US stocks, funds, and portfolios.
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
+- [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
