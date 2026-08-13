@@ -50,6 +50,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+- 🌟 [ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - AI Agent engineering x quantitative finance knowledge base: 106 evidence-graded notes (source-level agent architecture, A2A protocol, LLM factor mining) + 16 runnable code experiments.
 
 ## LLMs
 
