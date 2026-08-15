@@ -281,6 +281,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [DDScore](https://www.ddscore.ai/for-investor/) - AI-assisted first-pass due diligence for private-company materials, producing a structured 0–100 score and written report across 12 dimensions while checking relevant claims against current public sources. Supports analyst judgement; not investment advice or a replacement for full due diligence.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
+- - [FlexiAnalysis](https://flexianalysis.ai) - AI models publishing daily market forecasts for 60+ instruments across forex, commodities, indices and crypto, with every published outcome archived on a public verification record.
 - 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 - [JAQS](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
