@@ -94,6 +94,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [imbenrabi/Financial-Modeling-Prep-MCP-Server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
+- [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - 24 tools for live tennis scores, fixtures, players, H2H, rankings, and model win probability — event data for agents pricing tennis markets on prediction exchanges. Free tier.
 
 ### Trading Execution
 
@@ -276,6 +277,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
 - [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
+- [Live Tennis API](https://docs.livetennisapi.com) - Event-side data feed for agents trading tennis event markets: real-time scores with serving and break-point state, model win probabilities, H2H, rankings, and a 1968-2022 point-by-point archive. REST + WebSocket + MCP server. Free tier.
 
 ## Research Tools
 
