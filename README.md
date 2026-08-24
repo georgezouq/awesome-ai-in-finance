@@ -84,6 +84,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 - [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - 30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.
 - [dgunning/edgartools](https://github.com/dgunning/edgartools) - 11 MCP tools for SEC EDGAR — every filing type (10-K, 10-Q, 8-K, S-1), no API key required; 1,800+ Smithery installs.
+- [paperandbeyond23-gif/edgrapi-mcp](https://github.com/paperandbeyond23-gif/edgrapi-mcp) - SEC EDGAR smart-money data as clean JSON: insider trades (Form 4), 8-K events, 13F holdings (CUSIP-aggregated, diffed quarter-over-quarter), and 13D/13G >5% stakes, plus normalized fundamentals. 9 tools, hosted, free tier.
 - [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - Structured access to income statements, balance sheets, cash flows, stock prices, and market news via the Financial Datasets API.
 - [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) - Integrates Tushare (Chinese A-shares, funds, bonds, macro) and Binance (crypto) for LLM financial data access.
 - [TickDB/tickdb-unified-realtime-marketdata-api](https://github.com/TickDB/tickdb-unified-realtime-marketdata-api) - 13-tool unified real-time and historical market data across Forex, US/HK/CN stocks, and crypto.
