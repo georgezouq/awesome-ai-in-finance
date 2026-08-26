@@ -50,6 +50,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+- [Algorier](https://algorier.com) - Vibe-trading platform: turns a plain-English trading idea into a generated algorithm, backtests and forward-tests it, and deploys it to the user's own broker account across forex, crypto, metals, indices, CFDs and equities; creators can also sell strategies on its marketplace without exposing the logic to buyers.
 
 ## LLMs
 
