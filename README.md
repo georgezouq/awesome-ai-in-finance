@@ -50,6 +50,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+- [Tradolux](https://tradolux.com) - AI trading terminal for swing and options traders that reads any ticker through five agents (Chart, Sentiment, Fundamental, Risk, Macro) and combines them into one probabilistic assessment, firing signals with a defined entry, target, and stop.
 
 ## LLMs
 
