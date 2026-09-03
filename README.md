@@ -247,6 +247,7 @@ Price and Volume process with Technology Analysis Indices
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 - [BenchGecko](https://benchgecko.ai) - AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.
 - [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.
+- [SPZCO](https://spzco.com) - Research terminal over U.S. STOCK Act congressional trades, executive-branch OGE disclosures, 13F holdings and Form 4 insider filings, parsed to per-stock, per-filer and per-official pages with every row linked to its source filing. Free tier, no card required.
 
 #### Crypto Currencies
 
