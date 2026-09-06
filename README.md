@@ -71,6 +71,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Skills
 
+- [Market Brief](https://github.com/beepboop2025/market-brief) - Agent skill for source-linked funding, capital-market, and liquidity briefs, with local Python comparisons that preserve observation dates and missing-data states. MIT.
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 - [CFA Institute Bias Detection](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
 - [Ethical Capital Skills](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
