@@ -76,6 +76,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Ethical Capital Skills](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
 - [Trading Ledger](https://github.com/cruisekkk/trading-ledger) - Claude skill for trading journaling: captures thesis, plan, and emotion at entry into the user's own Notion database, with weekly reviews that grade decisions rather than P&L. MIT.
 - [Quant Research](https://github.com/Jimmy7892/quant-research-skill) - Agent skill for backtest validation using parameter stability, selection-bias checks, and walk-forward evaluation.
+- [Market Brief](https://github.com/beepboop2025/market-brief) - Agent skill for source-linked funding and liquidity briefs, preserving observation dates and missing-data states.
 
 ## MCP Servers
 
