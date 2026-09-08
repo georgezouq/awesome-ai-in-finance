@@ -80,6 +80,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Quant Research](https://github.com/Jimmy7892/quant-research-skill) - Agent skill for backtest validation using parameter stability, selection-bias checks, and walk-forward evaluation.
 - [Market Brief](https://github.com/beepboop2025/market-brief) - Agent skill for source-linked funding and liquidity briefs, preserving observation dates and missing-data states.
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
+- [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 
 ## MCP Servers
 
