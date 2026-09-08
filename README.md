@@ -261,6 +261,7 @@ Price and Volume process with Technology Analysis Indices
 - [SPZCO](https://spzco.com) - Research terminal for U.S. congressional trades, executive disclosures, institutional holdings, and insider filings, with links to source documents.
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
+- [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
 
 #### Crypto Currencies
 
