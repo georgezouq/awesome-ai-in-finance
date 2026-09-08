@@ -259,6 +259,7 @@ Price and Volume process with Technology Analysis Indices
 - [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.
 - [SPZCO](https://spzco.com) - Research terminal for U.S. congressional trades, executive disclosures, institutional holdings, and insider filings, with links to source documents.
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
+- [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 
 #### Crypto Currencies
 
