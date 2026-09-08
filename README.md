@@ -15,7 +15,7 @@ With the power of the latest artificial intelligence research, people analyze & 
   - [Trading Execution](#trading-execution)
   - [Research & Analysis](#research--analysis)
 - [Papers](#papers)
-- [Courses & Books](#courses--books)
+- [Courses & Books & Blogs](#courses--books--blogs)
 - [Strategies & Research](#strategies--research)
   - [Time Series Data](#time-series-data)
   - [Portfolio Management](#portfolio-management)
@@ -148,6 +148,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 - [Train and Deploy a Serverless API to predict crypto prices](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
+- [ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
 
 ## Strategies & Research
 
