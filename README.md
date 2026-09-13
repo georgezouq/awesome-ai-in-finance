@@ -280,6 +280,8 @@ Price and Volume process with Technology Analysis Indices
 - [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
 - [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
 
+- [CoinNudge](https://coinnudge.site/data) - Current crypto research datasets in JSON/CSV, including market breadth, funding and open interest. Free accounts get one API key with a shared 60 requests/minute limit; historical Market Events releases are separate and paid.
+
 #### News Data
 
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
