@@ -371,6 +371,7 @@ Do it in real world!
 - [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 - [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
 - [PENDAX](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
+- [HostDeFi](https://hostdefi.com/docs/api/) - Free keyless token-safety API: A+–F grades for Solana/EVM tokens, 100 checks/day per IP, no signup.
 
 ### Framework
 
