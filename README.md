@@ -268,6 +268,7 @@ Price and Volume process with Technology Analysis Indices
 - [BitBank.nz](https://bitbank.nz) - AI-powered crypto forecasting and predictions API with machine learning models for 70+ cryptocurrency pairs.
 - [CryptoInscriber](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [CoinPulse](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale flow data — tracks 20,000+ wallets with buy/sell classified DEX trades, net flow, and conviction scoring. Free dashboard and API available.
 - [Gekko-Datasets](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 - [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
 - [CoinPaprika API](https://api.coinpaprika.com) - Cryptocurrency prices, volume, market cap, and historical data via API. Keyless access is available with limits; see [plans](https://coinpaprika.com/api/).
