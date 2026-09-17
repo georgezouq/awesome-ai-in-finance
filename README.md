@@ -50,6 +50,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+- [Pinegen AI](https://www.pinegen.ai/) - Chat-based AI Pine Script generator for TradingView: describes entries, exits, and risk rules in plain English, validates the output against the TradingView v6 compiler in real time, and includes live chart preview and backtesting summaries.
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
 
