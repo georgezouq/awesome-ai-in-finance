@@ -52,6 +52,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
+- [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
 
 ## LLMs
 
@@ -316,6 +317,7 @@ Price and Volume process with Technology Analysis Indices
 - [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
 - [QuantLink](https://www.quantlink.ai) - AI-powered US-equity research terminal with deep-research agents grounded in SEC filings, a fundamental and technical stock screener with backtesting, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking from STOCK Act disclosures. Free tier available.
 - [NeuPortal](https://neuportal.ai) - AI forecasting-accountability lab: every forecast is locked pre-event, Bitcoin-timestamped (OpenTimestamps), and Brier-scored against prediction markets in public.
+- [wallstreetype-research](https://github.com/lss680455-create/wallstreetype-research) - Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.
 
 ## Trading System
 
