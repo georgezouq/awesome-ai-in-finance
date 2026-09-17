@@ -407,6 +407,7 @@ Do it in real world!
 - [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
 
 #### Other Resource
+- [marketing-mindset](https://axelfreeman.github.io/marketing-mindset/) — open agent skill (SKILL.md) for B2B marketing tests: sample size, kill rules, pricing a first client, cold-email deliverability. Install: `npx marketing-mindset`
 
 - 🌟🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 - 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
