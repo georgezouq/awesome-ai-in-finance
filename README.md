@@ -405,6 +405,7 @@ Do it in real world!
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 - [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
 - [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
+- [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - Persistent memory for AI agents over MCP, with recall re-ranked by feedback on whether a memory helped. MIT-licensed server and Python SDK, hosted engine with a free tier. Gives trading and research agents memory that survives restarts across tools.
 
 #### Other Resource
 
