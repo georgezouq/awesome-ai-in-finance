@@ -186,6 +186,8 @@ Price and Volume process with Technology Analysis Indices
 - [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
 - [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
 - [skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
+- [CAST](https://github.com/FanBroWell/CAST) - Cross-asset Kalman filtering with model predictive control for limiting portfolio drawdown (ICDM 2026).
+
 
 ### High Frequency Trading
 
