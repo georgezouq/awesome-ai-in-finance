@@ -394,6 +394,7 @@ Do it in real world!
 - [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist.
 - [nyu-mlif-notes](https://github.com/wizardforcel/nyu-mlif-notes) - NYU machine learning in finance notes.
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
+- [How to Build a Diversified Crypto Portfolio (2026)](https://solangle.com/diversified-crypto-portfolio-guide.html) - Practical framework for building a risk-managed crypto portfolio: position sizing, correlation across majors/L1s/stables, rebalancing cadence, and custody trade-offs, with worked allocations for conservative/balanced/aggressive profiles.
 
 ## Others
 
@@ -416,3 +417,4 @@ Do it in real world!
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
 - [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
