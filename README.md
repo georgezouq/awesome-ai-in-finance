@@ -82,6 +82,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [MetaMask Agent Wallet](https://github.com/MetaMask/agent-skills) - Agent skills for the `mm` CLI: self-custodial wallet ops, swaps, bridges, Hyperliquid perps, Polymarket prediction markets, yield vaults, and x402 payments, with threat scanning and MEV protection.
 
 ## MCP Servers
 
