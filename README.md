@@ -53,6 +53,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
 
+- [Melaya](https://melaya.org) - Hosted agentic trading platform with a 7-persona AI trading crew (Macro, TA, Quant, Sentiment, Risk, Portfolio, Execution) plus 4 sidecar watchers. HITL approval on every order. Bring any of 20+ AI providers per persona. Wired to an in-house Rust trading engine at 420 ns per bar across 65 CEX and 6 prediction markets. Dry-run mode end to end on live market data before flipping any live key.
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
