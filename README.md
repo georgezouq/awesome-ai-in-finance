@@ -82,6 +82,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [TraderSpy Skills](https://github.com/target1m/traderspy-mcp) - Agent skills and a Claude Code plugin for crypto futures briefings, technical analysis, screening and backtests, AI signals, top-trader positioning, and position checks, built on TraderSpy's hosted read-only MCP server (closed source). Requires a TraderSpy key or OAuth; 300 tool calls per day free, 5,000 on the paid plan.
 
 ## MCP Servers
 
