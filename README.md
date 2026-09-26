@@ -52,6 +52,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
+- [DXAP](https://www.dxap.ai/) - Agentic trading harness on Hyperliquid by DX Research Group: write a strategy in plain language, an AI agent trades your own account inside limits a policy engine enforces, and every decision is logged.
 
 ## LLMs
 
@@ -134,6 +135,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
+- [Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital, 2026](https://arxiv.org/abs/2604.26091) - 21-day deployment of 3,505 user-funded LLM agents trading real ETH on Base, measuring how controls outside the model change agent behavior.
+- [What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets, 2026](https://arxiv.org/abs/2609.05663) - Six months of production behavior from two LLM trading fleets, DX Terminal Pro and DXAP, with paper artifacts and aggregate data on [GitHub](https://github.com/ProjectDXAI/continuous-record-llm-trading-agents).
 
 ## Courses & Books & Blogs
 
