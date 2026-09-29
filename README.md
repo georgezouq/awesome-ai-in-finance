@@ -388,6 +388,7 @@ Do it in real world!
 - [TradzQAI](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
 - [btgym](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library.
 - [TraderHarness](https://github.com/HephaestLab/TraderHarness) - Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.
+-  [Xitadel-QuantBench](https://github.com/Simreal-AI/Xitadel-QuantBench) - Trading benchmark for LLM agents that replays each agent-written strategy on an unseen market day and scores it against the best human competition strategy on that same day.
 
 ## Articles
 
