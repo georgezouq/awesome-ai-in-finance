@@ -294,6 +294,7 @@ Price and Volume process with Technology Analysis Indices
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
 - [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 - [Live Tennis API](https://docs.livetennisapi.com) - Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.
+- [Resolved Markets](https://resolvedmarkets.com) - Historical Polymarket order book snapshots, trades and resolutions via REST, WebSocket and a hosted MCP server, plus Hyperliquid perp books. Free tier covers crypto markets.
 
 ## Research Tools
 
