@@ -113,6 +113,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
 - [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+- [GemachDAO/gdex-skill](https://github.com/GemachDAO/gdex-skill) - **Official** GDEX (gdex.pro) MCP server (117 tools) and agent skills: spot swaps on Solana, Sui and 10 EVM chains, Hyperliquid perpetuals including HIP-3 equity/FX/commodity markets, limit orders, copy trading, and bridging.
 
 ### Research & Analysis
 
