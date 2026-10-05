@@ -102,6 +102,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+- [arhancanli/canli-fundamentals-mcp](https://github.com/arhancanli/canli-fundamentals-mcp) - SEC XBRL fundamentals point in time: what was first reported, what was known on any date, and every later restatement, each value with the filing behind it, so a backtest can use only the numbers known on each date. No API key.
 
 ### Trading Execution
 
@@ -120,6 +121,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+- [arhancanli/canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp) - Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV probability of backtest overfitting, data-snooping tests (Hansen's SPA, White's Reality Check, Romano-Wolf StepM), lookahead checks and pipeline placebos. Runs locally with npx or on a hosted endpoint; no signup or key needed.
 
 ## Papers
 
