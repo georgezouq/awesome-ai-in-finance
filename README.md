@@ -262,7 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
-- [Silicon Floor](https://siliconfloor.com) - Free research terminal and MCP server for AI and semiconductor stocks: who owns them (13F, 13D/G, insiders), insider trades, financial statements as filed with the SEC and FINRA short interest, every figure linked to its source. No account or API key.
+- [Silicon Floor](https://siliconfloor.com) - Follow the AI stock market for free: 220 AI and chip stocks, their news, the sector's market cap, dividends, and who owns each company and who's buying or selling, from SEC filings, with an MCP server so Claude or ChatGPT can answer with sources. No account or API key.
 
 #### Crypto Currencies
 
