@@ -102,6 +102,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+- [na77tech-creator/aikstockdata](https://github.com/na77tech-creator/aikstockdata) - Open-source MCP server with a hosted endpoint for Korean stocks on KOSPI, KOSDAQ and KONEX (ETFs excluded): prior-trading-day settled closes, DART filings with receipt times, earnings from periodic filings, and median market-adjusted returns by filing type. No account and no API key. Non-commercial use with attribution; commercial redistribution is not permitted.
 
 ### Trading Execution
 
