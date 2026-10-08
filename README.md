@@ -262,6 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [Fair Value Calculator](https://www.fairvalue-calculator.com) - Fair value estimates and quality scores for 35,000+ stocks worldwide, with CC BY 4.0 valuation datasets and hosted MCP access. Free tier with monthly limits.
 
 #### Crypto Currencies
 
