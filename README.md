@@ -120,6 +120,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+- [intoApex/tradingagentstack-mcp](https://github.com/intoApex/tradingagentstack-mcp) - Read-only MCP directory of 114 AI trading tools and broker MCP servers: who can place orders, safeguards and pricing, every fact sourced and dated. No API key; also hosted at tradingagentstack.com/api/mcp.
 
 ## Papers
 
