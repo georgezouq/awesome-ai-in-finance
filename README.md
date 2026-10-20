@@ -82,6 +82,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [SimianX AI](https://github.com/SimianX-AI/simianx-skills) - Agent skill and remote MCP server that gives any AI agent an 8-agent research committee on US stocks and crypto (four analysts, bull and bear researchers, research and risk managers; verdict with entry, stop and target, PDF, follow-up questions), live multi-agent analysis and a scored market-news stream; works with Claude Code, Codex, Cursor, Gemini CLI, Grok Bot, Muse and more. Requires a SimianX API key. MIT.
 
 ## MCP Servers
 
