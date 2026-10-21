@@ -262,6 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [Ryufin](https://ryufin.com/developers) - Free US stock research built from SEC filings, with a remote MCP server that needs no API key or signup: five plain answers per stock, financial history, and 8-K news for 3,000+ US stocks.
 
 #### Crypto Currencies
 
