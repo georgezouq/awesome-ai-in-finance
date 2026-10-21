@@ -82,6 +82,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [Clear Street Skills](https://github.com/clear-street/clearstreet-skills) - Official agent skills for the Clear Street API: fundamentals research, earnings calendar, borrow checks, screening, and Omni research. Apache 2.0.
 
 ## MCP Servers
 
@@ -367,6 +368,7 @@ For Back Test & Live trading
 Do it in real world!
 
 - [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
+- [Clear Street](https://docs.clearstreet.com/?utm_source=github&utm_medium=developer&utm_campaign=api_listings&utm_content=awesome_ai_in_finance) - Trading API for US equities and options with official Python, TypeScript, Go, and Java SDKs, plus a hosted MCP server for connecting AI assistants to your account.
 - [IbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
 - [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 - [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
