@@ -262,6 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [MetricsHour](https://metricshour.com/data/geo-revenue/) - Revenue by country for 355 US-listed stocks, parsed from SEC 10-K/20-F filings, with a geographic exposure screener. [GitHub](https://github.com/Metricshour/edgar-geo-revenue) | [PyPI](https://pypi.org/project/edgar-geo-revenue/) | [Screener](https://metricshour.com/screener/)
 
 #### Crypto Currencies
 
