@@ -152,6 +152,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Train and Deploy a Serverless API to predict crypto prices](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 - [ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
+- [Agents Finance](https://agentsfinance.io/) - Free bilingual (EN/ES) directory of real AI-agent use cases in accounting, FP&A, treasury and ERPs, with sources, evidence level and copyable prompts.
 
 ## Strategies & Research
 
