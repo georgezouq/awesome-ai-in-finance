@@ -262,6 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [Katana](https://katanascreener.com/en/) - Japanese stock screener built on EDINET annual securities reports for about 3,800 listed companies, with custom formulas, annual report text search, and a hosted MCP server.
 
 #### Crypto Currencies
 
