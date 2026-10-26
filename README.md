@@ -70,6 +70,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [LLMs Meet Finance](https://arxiv.org/abs/2504.13125) - A three-stage fine-tuning pipeline (SFT → DPO → synthetic-data RL) that adapts Qwen2.5 and DeepSeek-R1 to financial tasks on the Open FinLLM Leaderboard, with findings on cross-task transfer and data scaling laws in finance.
 - [MMESGBench](https://github.com/Zhanglei1103/MMESGBench) - First multimodal benchmark for understanding and complex reasoning over real-world ESG reports; 933 expert-validated QA pairs across 45 documents with text/table/chart evidence and single-page, cross-page, and unanswerable questions (ACM MM 2025).
 - [ESGenius](https://github.com/ANGEL-NTU/ESGenius) - The first benchmark for evaluating LLMs on Environmental, Social, and Governance (ESG) and sustainability knowledge; 1,136 expert-validated multiple-choice questions plus a curated source corpus, evaluating 50 LLMs under zero-shot and RAG (EMNLP 2025).
+- [LevelBench-100](https://github.com/levelcfo/levelbench-100) - 100-check AI accounting and fractional CFO benchmark evaluating 38 AI models, CLI agent harnesses, and browser agents across QuickBooks Online takeover diagnostics, 15 anonymized SMB close workbooks (.xlsx), and 30 AI accounting error modes ([Interactive Leaderboard](https://levelcfo.com/benchmarks/agentic-accounting/) · [HF Dataset](https://huggingface.co/datasets/LevelCFO/levelbench-100)).
 
 ## Skills
 
@@ -82,6 +83,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [Level Open Finance](https://github.com/levelcfo/open-finance-skills) - 20 inspectable SMB finance and month-end close skills with checked-in synthetic JSON fixtures and a read-only local MCP server covering bank reconciliation, 13-week cash flow forecasting, AR integrity, and vendor 1099 review. MIT.
 
 ## MCP Servers
 
