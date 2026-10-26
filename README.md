@@ -316,6 +316,7 @@ Price and Volume process with Technology Analysis Indices
 - [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
 - [QuantLink](https://www.quantlink.ai) - AI-powered US-equity research terminal with deep-research agents grounded in SEC filings, a fundamental and technical stock screener with backtesting, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking from STOCK Act disclosures. Free tier available.
 - [NeuPortal](https://neuportal.ai) - AI forecasting-accountability lab: every forecast is locked pre-event, Bitcoin-timestamped (OpenTimestamps), and Brier-scored against prediction markets in public.
+- [AgentBroker Index](https://agentbrokerindex.com/) - Source-linked tracker of official AI-agent integrations (MCP servers, ChatGPT apps, Claude connectors, agent APIs) at 68 brokers, banks and crypto exchanges, recording whether an agent can read, draft or place orders and where the feature is available, with a Spain and EU focus. Free, no affiliate links; open data under CC BY 4.0.
 
 ## Trading System
 
