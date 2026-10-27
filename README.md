@@ -279,6 +279,7 @@ Price and Volume process with Technology Analysis Indices
 - [TBD Predict](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
 - [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
 - [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
+- [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - Free, requester-pays archive of Hyperliquid fills, 1-second candles, position snapshots and order book snapshots as Parquet files on S3.
 
 #### News Data
 
