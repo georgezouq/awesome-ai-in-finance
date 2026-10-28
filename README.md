@@ -102,6 +102,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+- [PreReason/mcp](https://github.com/PreReason/mcp) - Financial market context for AI agents, reasoned in advance, from the economy and markets to listed companies' reported results. Agents start at [www.prereason.com/agents.md](https://www.prereason.com/agents.md).
 
 ### Trading Execution
 
@@ -273,7 +274,6 @@ Price and Volume process with Technology Analysis Indices
 - [CoinPaprika API](https://api.coinpaprika.com) - Cryptocurrency prices, volume, market cap, and historical data via API. Keyless access is available with limits; see [plans](https://coinpaprika.com/api/).
 - [DexPaprika API](https://api.dexpaprika.com) - DEX pool, token, OHLCV, and trade data via API and MCP. Keyless access has rate and usage limits; see [plans](https://dexpaprika.com/api/pricing).
 - [Philidor](https://docs.philidor.io/docs) - Institutional-grade DeFi risk scoring for 700+ vaults across 9 protocols and 6 chains. REST API and MCP server (Claude, Cursor, Windsurf). Deterministic 0–10 risk scores, tiers (Prime/Core/Edge), portfolio analysis, oracle monitoring. No API key required.
-- [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
 - [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence API with 108 endpoints for fee estimates, mempool analysis, block data, and mining stats. Self-hostable, Apache 2.0.
 - [Sharpe](https://www.sharpe.ai/docs/free-api) - Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.
 - [TBD Predict](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
