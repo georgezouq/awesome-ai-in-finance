@@ -290,7 +290,6 @@ Price and Volume process with Technology Analysis Indices
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 - [CoworkingView Price Index](https://coworkingview.com/en/tools/price-index) - Coworking and flex office price medians for European and UAE cities as a keyless REST API and MCP server, with the index under CC BY 4.0.
 
-
 #### Prediction Markets
 
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
