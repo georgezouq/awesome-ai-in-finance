@@ -53,6 +53,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
 
+- [LLM_trader](https://github.com/qrak/LLM_trader) - An LLM trading agent that reads a rendered 4h chart, retrieves its own closed trades as memory, and publishes every prompt, decision and loss; paper trading with a ledger the repo can reproduce.
+
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
