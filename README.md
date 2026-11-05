@@ -52,6 +52,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
+- [AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) - Open-source desktop AI app with ready-made research Bots: a US equity research Bot that reads SEC EDGAR filings and keeps every number traceable, and a company due-diligence Bot that writes sourced reports with PDF export. Reports stay on the user's device; no brokerage connection or trade execution; not investment advice.
 
 ## LLMs
 
