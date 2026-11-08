@@ -377,6 +377,7 @@ Do it in real world!
 - [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 
 ### Visualizing
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
 
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks.
 - [netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
