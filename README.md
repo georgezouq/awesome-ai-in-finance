@@ -120,6 +120,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+- [Iman/agent-driven-options-desk-and-skills](https://github.com/Iman/agent-driven-options-desk-and-skills) - Option analytics from a supplied chain: Greeks, dealer positioning, strategy payoffs, GARCH simulation and backtests. Local stdio server and a hosted endpoint; fetches no market data unless a provider is configured.
+- [Iman/agent-driven-risk-desk-and-skills](https://github.com/Iman/agent-driven-risk-desk-and-skills) - Portfolio risk from supplied data: VaR and Expected Shortfall with backtests, stress tests, SA-CCR, credit VaR and FRTB capital components. Local stdio server and a hosted endpoint; reads no market data and sends no orders.
 
 ## Papers
 
