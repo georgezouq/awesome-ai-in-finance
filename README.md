@@ -137,6 +137,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
 - [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
 - [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
+- [Iman/agent-driven-options-desk-and-skills](https://github.com/Iman/agent-driven-options-desk-and-skills) - Option analytics from a supplied chain: Greeks, dealer positioning, strategy payoffs, GARCH simulation and backtests. Local stdio server and a hosted endpoint; fetches no market data unless a provider is configured.
+- [Iman/agent-driven-risk-desk-and-skills](https://github.com/Iman/agent-driven-risk-desk-and-skills) - Portfolio risk from supplied data: VaR and Expected Shortfall with backtests, stress tests, SA-CCR, credit VaR and FRTB capital components. Local stdio server and a hosted endpoint; reads no market data and sends no orders.
 
 ## Papers
 
