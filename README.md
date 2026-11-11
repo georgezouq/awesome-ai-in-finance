@@ -208,6 +208,7 @@ Price and Volume process with Technology Analysis Indices
 - [gekko-neuralnet](https://github.com/zschro/gekko-neuralnet) - Neural network strategy for Gekko.
 - [bitcoin_prediction](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
 - [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI-powered crypto trading bot with 3-model ML ensemble (XGBoost, LightGBM, CatBoost), 12 exchanges via CCXT, walk-forward validated.
+- [Crypto-Strategies](https://github.com/CacheCarti/Crypto-Strategies) - Corpus of 2,700 open-source crypto trading strategies with per-stage validation report cards and hash-bound certificates.
 
 ### Technical Analysis
 
