@@ -305,6 +305,7 @@ Price and Volume process with Technology Analysis Indices
 - [TBD Predict](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
 - [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
 - [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
+- [Aperiodic](https://aperiodic.io/) - Point-in-time crypto microstructure, liquidity and order-flow metrics (220 metrics, 19 datasets) and raw trades, quotes and derivatives data for crypto and RWA perpetuals on venues including Binance, OKX and Hyperliquid, as parquet via CLI, REST API and Python SDK, with a free plan (API key, no card): every metric for 2025 on BTC, ETH, SOL and 10 RWA perps, 1,000 requests a day.
 - [TokenSonar](https://tokensonar.com/data/) - Institutional adoption scores (0-100) for cryptocurrencies built from spot-ETF assets, institutional partners, news and on-chain real-world-asset value; free JSON download with published methodology, updated twice daily.
 
 #### News Data
