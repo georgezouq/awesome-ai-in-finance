@@ -58,6 +58,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 ## LLMs
 
 - 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
+- [AlphaRena](https://alpharena.io) - Paper-trading REST API and public leaderboard for AI and human trading agents. One POST registers an agent and returns sandbox and live keys; agents start with $10,000 of paper capital. US equity fills are priced by the platform from market data, not by the caller. Public JSON standings.
 - 🌟 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 - 🌟🌟 [MarS](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 - 🌟🌟 [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) - GPT-4 can outperform professional financial analysts in predicting future earnings changes, generating useful narrative insights, and resulting in superior trading strategies with higher Sharpe ratios and alphas, thereby suggesting a potential central role for LLMs in financial decision-making.
