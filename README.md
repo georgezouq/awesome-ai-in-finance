@@ -37,6 +37,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 - 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
+- [FastTrade AI](https://github.com/kingabzpro/FastTrade-AI) - Signal-only LLM market research workspace with deterministic risk checks, a budgeted batch API, and reproducible checksummed backtests. Never places orders.
 - 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
 - 🌟 [ATLAS](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
@@ -45,13 +46,20 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
 - [TraceArena](https://github.com/tonyhyworld/TraceArena) - Open-source runtime for auditable multi-agent investment evaluation with evidence-linked actions, deterministic simulated settlement, and reproducible replay; no brokerage connection.
 - [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
-- [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
+- [oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent) - Prediction-market trading engine and MCP server for Kalshi, Polymarket, and Solana, with fee-aware no-arbitrage checks across related contracts and live or paper execution.
 - [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) - Evidence-driven market recap CLI for AI agents, producing Markdown reports and JSON Evidence Packs for A/HK/US stocks, funds, and portfolios.
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
+- [DXAP](https://www.dxap.ai/) - Agentic trading harness on Hyperliquid by DX Research Group: write a strategy in plain language, an AI agent trades your own account inside limits a policy engine enforces, and every decision is logged.
+- [seduma-trade-agent-demo](https://github.com/Quantum-Karate/seduma-trade-agent-demo) - Practice-only loop that runs LLM trading-agent decisions through confirm-gated simulated fills.
+- [LLM_trader](https://github.com/qrak/LLM_trader) - An LLM trading agent that reads a chart rendered from every closed candle, retrieves its own closed trades as memory, and publishes every prompt, decision and loss; paper trading with a ledger the repo can reproduce.
+- [TRA (bitra)](https://github.com/BijectiveLabs/bitra) - Autonomous crypto trading system in which LLM agents only propose: deterministic rules compute every figure, price costs before any order, size from the operator's risk limit, keep exits at the exchange, and record every decision with a re-verifiable hash.
+- [AlphaFinch](https://github.com/shloksobti/alphafinch) - AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.
+- [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
+- [FriesTrader](https://github.com/YizhiSong/FriesTrader) - Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.
 
 ## LLMs
 
@@ -82,6 +90,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AI Trader Team](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
+- [Krexa](https://github.com/Krexa-xyz/skills) - Agent skill and remote MCP server for turning a trading idea, post or video into fixed rules, backtesting and paper-trading them free, and requesting a user-approved live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs.
+- [SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) - Read-only trading journal and review harness for agents: freezes point-in-time evidence packs, replays them deterministically, and grades rule candidates on a frozen 240-case finance benchmark. MIT.
 
 ## MCP Servers
 
@@ -89,7 +99,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 ### Market Data
 
-- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - 30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.
+- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - MCP server with 39 tools for screeners, multi-timeframe technical analysis, walk-forward backtests, news and sentiment across stocks, crypto, forex, and futures.
 - [dgunning/edgartools](https://github.com/dgunning/edgartools) - 11 MCP tools for SEC EDGAR — every filing type (10-K, 10-Q, 8-K, S-1), no API key required; 1,800+ Smithery installs.
 - [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) - Structured access to income statements, balance sheets, cash flows, stock prices, and market news via the Financial Datasets API.
 - [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) - Integrates Tushare (Chinese A-shares, funds, bonds, macro) and Binance (crypto) for LLM financial data access.
@@ -102,6 +112,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+- [itulo/eu-nordic-open-data-mcp](https://github.com/itulo/eu-nordic-open-data-mcp) - Open-source MCP server for official EU open data: ECB FX rates, policy rates and HICP inflation, EU consolidated sanctions screening, VIES VAT validation, and GLEIF LEI ownership chains. No API key for these tools; same tools also available as pay-per-use Apify actors.
 
 ### Trading Execution
 
@@ -120,6 +131,12 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - **Official** Firecrawl MCP server for finance research agents: web search, scrape, and crawl, plus Alexandria providers for SEC EDGAR filings and FRED macro series. Alexandria requires an API key.
+- [Kernel-Hunter/kandle](https://github.com/Kernel-Hunter/kandle) - Open-source browser charting app with an MCP server: agents read the chart, draw levels, add indicators and alerts, and run strategy backtests on crypto, stocks and forex.
+- [signal8ai/signal8-mcp](https://github.com/signal8ai/signal8-mcp) - **Official** Signal8 MCP server: small-cap dilution (warrants, ATMs, shelf registrations, convertibles, cash runway) with each figure cited to its SEC filing, plus insider and congressional trades, halts and reverse splits. Requires a Signal8 Pro API key.
+- [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
+- [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
+- [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
 
 ## Papers
 
@@ -134,6 +151,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Ten Financial Applications of Machine Learning, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726) - Slides review few important financial ML applications.
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
 - [Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) - Propose an ensemble strategy that employs deep reinforcement schemes to learn a stock trading strategy by maximizing investment return.
+- [Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital, 2026](https://arxiv.org/abs/2604.26091) - 21-day deployment of 3,505 user-funded LLM agents trading real ETH on Base, measuring how controls outside the model change agent behavior.
+- [What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets, 2026](https://arxiv.org/abs/2609.05663) - Six months of production behavior from two LLM trading fleets, DX Terminal Pro and DXAP, with paper artifacts and aggregate data on [GitHub](https://github.com/ProjectDXAI/continuous-record-llm-trading-agents).
 
 ## Courses & Books & Blogs
 
@@ -152,6 +171,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Train and Deploy a Serverless API to predict crypto prices](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 - [ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
+- [Agents Finance](https://agentsfinance.io/) - Free bilingual (EN/ES) directory of real AI-agent use cases in accounting, FP&A, treasury and ERPs, with sources, evidence level and copyable prompts.
+- [EcoFinLearn](https://ecofinlearning.com) - Free in-browser Python, pandas, scikit-learn and SQL lessons for finance and economics students, including return prediction with scikit-learn; runs on Pyodide and SQLite with no signup.
 
 ## Strategies & Research
 
@@ -177,6 +198,7 @@ Price and Volume process with Technology Analysis Indices
 - [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 - [patternity](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
 - [Quantium Research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+- [PredixLab Signals](https://github.com/predixlab/predixlab-signals) - Python research pipeline for daily US equity signals (S&P 500 / Nasdaq-100): LightGBM with purged walk-forward validation, next-session backtests with per-side costs, and leakage tests. Daily data only; not live quotes.
 
 ### Portfolio Management
 
@@ -186,6 +208,8 @@ Price and Volume process with Technology Analysis Indices
 - [DeepDow](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
 - [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
 - [skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
+- [CAST](https://github.com/FanBroWell/CAST) - Cross-asset Kalman filtering with model predictive control for limiting portfolio drawdown (ICDM 2026).
+
 
 ### High Frequency Trading
 
@@ -262,6 +286,8 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [autorekt](https://github.com/autorekt/autorekt) - CLI and agent skill that give AI agents market data from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma, China money markets and prediction-market odds, with the age of every value.
+- [US Bank Data](https://github.com/anshuman-pandey/us-bank-data) - Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived source evidence.
 
 #### Crypto Currencies
 
@@ -280,6 +306,7 @@ Price and Volume process with Technology Analysis Indices
 - [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
 - [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
 - [Aperiodic](https://aperiodic.io/) - Point-in-time crypto microstructure, liquidity and order-flow metrics (220 metrics, 19 datasets) and raw trades, quotes and derivatives data for crypto perpetuals on venues including Binance, OKX and Hyperliquid, as parquet via CLI, REST API and Python SDK, with a free preview that needs no signup.
+- [TokenSonar](https://tokensonar.com/data/) - Institutional adoption scores (0-100) for cryptocurrencies built from spot-ETF assets, institutional partners, news and on-chain real-world-asset value; free JSON download with published methodology, updated twice daily.
 
 #### News Data
 
@@ -295,6 +322,7 @@ Price and Volume process with Technology Analysis Indices
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
 - [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 - [Live Tennis API](https://docs.livetennisapi.com) - Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.
+- [Resolved Markets](https://resolvedmarkets.com) - Historical Polymarket order book snapshots, trades and resolutions via REST, WebSocket and a hosted MCP server, plus Hyperliquid perp books. Free tier covers crypto markets.
 
 ## Research Tools
 
@@ -317,6 +345,10 @@ Price and Volume process with Technology Analysis Indices
 - [Coinugget](https://coinugget.com) - Real-time RSI signals, price action & volume spikes dashboard for crypto traders. Free, no sign-up required.
 - [QuantLink](https://www.quantlink.ai) - AI-powered US-equity research terminal with deep-research agents grounded in SEC filings, a fundamental and technical stock screener with backtesting, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking from STOCK Act disclosures. Free tier available.
 - [NeuPortal](https://neuportal.ai) - AI forecasting-accountability lab: every forecast is locked pre-event, Bitcoin-timestamped (OpenTimestamps), and Brier-scored against prediction markets in public.
+- [tracemodel](https://github.com/datayoga-io/tracemodel) - Python library for financial models that AI agents fill from filings: every number has a source, formulas are traced, and checks catch totals that do not tie.
+- [StockTipsArena](https://stocktipsarena.com) - AI-extracted Indian equity (NSE) analyst recommendation tracker, SEBI registry directory, and stock screener auditing 27,000+ public calls against exchange OHLCV candles, with an open CC BY 4.0 benchmark dataset ([GitHub](https://github.com/StockTipsArena/india-analyst-accuracy-benchmark)) and MCP server ([GitHub](https://github.com/StockTipsArena/stocktipsarena-mcp)). Free tier available.
+- [FinTwin](https://github.com/SpiliosDimakopoulos/fintwin) - Open source digital twin of 390+ public companies' finances built from SEC XBRL filings, with Monte Carlo stress tests, conformal forecast intervals and an out-of-sample backtest on 5,000+ SEC filers. Live dashboard and paper included.
+- [wallstreetype-research](https://github.com/lss680455-create/wallstreetype-research) - Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.
 
 ## Trading System
 
@@ -335,6 +367,7 @@ For Back Test & Live trading
 - [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 - [lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+- [lumibot](https://github.com/Lumiwealth/lumibot) - Python framework for backtesting and live trading with the same strategy code, with a built-in AI agent runtime and 12 broker integrations across stocks, options, futures, forex, crypto and prediction markets.
 
 **Combine & Rebuild**
 
@@ -389,6 +422,7 @@ Do it in real world!
 - [TradzQAI](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
 - [btgym](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library.
 - [TraderHarness](https://github.com/HephaestLab/TraderHarness) - Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.
+- [tradefloor](https://github.com/simoncoombes/tradefloor) - Simulated stock markets with a limit order book per company and an economy underneath, for testing RL policies and LLM trading agents, with a Gymnasium environment and adapters for the OpenAI Agents SDK, PydanticAI and LangGraph.
 
 ## Articles
 
