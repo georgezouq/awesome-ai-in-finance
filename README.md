@@ -293,6 +293,8 @@ Price and Volume process with Technology Analysis Indices
 - [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
 - [TokenSonar](https://tokensonar.com/data/) - Institutional adoption scores (0-100) for cryptocurrencies built from spot-ETF assets, institutional partners, news and on-chain real-world-asset value; free JSON download with published methodology, updated twice daily.
 
+- [CoinNudge](https://coinnudge.site/data) - Current crypto research datasets in JSON/CSV, including market breadth, funding and open interest. Free accounts get one API key with a shared 60 requests/minute limit; historical Market Events releases are separate and paid.
+
 #### News Data
 
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
