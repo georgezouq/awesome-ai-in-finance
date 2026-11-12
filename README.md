@@ -127,6 +127,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 ### Research & Analysis
 
+- [Mode VC Radar](https://modevc.com/api/mcp) - Read-only venture capital research MCP server: 3,650 investor firms and 13,039 partners, daily SEC Form D new-raise filings, 42 sourced AI market charts and 8 founder calculators. Hosted Streamable HTTP at https://modevc.com/api/mcp (free, no auth). Official MCP Registry id com.modevc/radar.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) - Open-source memory MCP for AI trading agents: three-layer architecture (raw memory → pattern reflection → strategy evolution).
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
