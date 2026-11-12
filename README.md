@@ -338,6 +338,7 @@ For Back Test & Live trading
 - [kungfu](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 - [lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+- [lumibot](https://github.com/Lumiwealth/lumibot) - Python framework for backtesting and live trading with the same strategy code, with a built-in AI agent runtime and 12 broker integrations across stocks, options, futures, forex, crypto and prediction markets.
 
 **Combine & Rebuild**
 
