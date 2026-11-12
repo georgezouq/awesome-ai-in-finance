@@ -92,6 +92,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
 - [Krexa](https://github.com/Krexa-xyz/skills) - Agent skill and remote MCP server for turning a trading idea, post or video into fixed rules, backtesting and paper-trading them free, and requesting a user-approved live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs.
 - [SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) - Read-only trading journal and review harness for agents: freezes point-in-time evidence packs, replays them deterministically, and grades rule candidates on a frozen 240-case finance benchmark. MIT.
+- [Siebly Agent Skills](https://github.com/sieblyio/agent-skills) - Agent skill for building Node.js and TypeScript integrations with crypto exchange REST and WebSocket APIs using Siebly's open-source SDKs (Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken, HTX, Hyperliquid). MIT.
 
 ## MCP Servers
 
