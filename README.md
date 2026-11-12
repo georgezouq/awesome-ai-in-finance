@@ -310,6 +310,7 @@ Price and Volume process with Technology Analysis Indices
 #### News Data
 
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+- [Financial News Sentiment](https://apify.com/scionic_dev/financial-news-sentiment) - Collects news per stock ticker from Google News, Yahoo Finance and SEC EDGAR and scores each article bullish, neutral or bearish with a small embedding model. Watchlist mode returns only articles not seen before. Pay per article, also usable as an MCP server.
 
 #### Alternative Data
 
