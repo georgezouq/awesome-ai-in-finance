@@ -123,6 +123,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - **Official** Firecrawl MCP server for finance research agents: web search, scrape, and crawl, plus Alexandria providers for SEC EDGAR filings and FRED macro series. Alexandria requires an API key.
 
 ## Papers
 
