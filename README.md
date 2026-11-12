@@ -72,6 +72,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [LLMs Meet Finance](https://arxiv.org/abs/2504.13125) - A three-stage fine-tuning pipeline (SFT → DPO → synthetic-data RL) that adapts Qwen2.5 and DeepSeek-R1 to financial tasks on the Open FinLLM Leaderboard, with findings on cross-task transfer and data scaling laws in finance.
 - [MMESGBench](https://github.com/Zhanglei1103/MMESGBench) - First multimodal benchmark for understanding and complex reasoning over real-world ESG reports; 933 expert-validated QA pairs across 45 documents with text/table/chart evidence and single-page, cross-page, and unanswerable questions (ACM MM 2025).
 - [ESGenius](https://github.com/ANGEL-NTU/ESGenius) - The first benchmark for evaluating LLMs on Environmental, Social, and Governance (ESG) and sustainability knowledge; 1,136 expert-validated multiple-choice questions plus a curated source corpus, evaluating 50 LLMs under zero-shot and RAG (EMNLP 2025).
+- [AgonAlpha](https://arxiv.org/abs/2608.11250) - First alpha-mining system to combine verified artifact search, a fresh-context adversarial reviewer with re-execution and veto authority, and pending-aware parallel budget allocation. 17 of 60 WorldQuant BRAIN submissions reached SPECTACULAR.
 
 ## Skills
 
