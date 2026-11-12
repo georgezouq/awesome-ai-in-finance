@@ -411,6 +411,7 @@ Do it in real world!
 - [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist.
 - [nyu-mlif-notes](https://github.com/wizardforcel/nyu-mlif-notes) - NYU machine learning in finance notes.
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
+- [Which brokers let AI agents trade: controls compared](https://theagentfloor.com/p/which-brokers-let-ai-agents-trade-controls-compared) - Side-by-side of the agent controls at nine brokers and exchanges (per-trade approval, order caps, money out, separate agent account, off switch). Updated weekly with dated sources.
 
 ## Others
 
