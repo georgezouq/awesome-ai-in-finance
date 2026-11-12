@@ -296,6 +296,7 @@ Price and Volume process with Technology Analysis Indices
 #### News Data
 
 - [WorldMonitor](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+- [Corporate Events 2019-2026](https://huggingface.co/datasets/fliarbi/corporate-events-2019-2026) - Company events extracted from business news (M&A with acquirer/target role, layoffs, IPOs, contracts, lawsuits) with date, sector, country and headline. Open CC BY-NC 4.0 sample of 100,002 of 1,339,579 reports, 2019 to mid-2026; CSV/Parquet, DOI 10.5281/zenodo.23432171.
 
 #### Alternative Data
 
