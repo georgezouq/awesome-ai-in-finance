@@ -103,6 +103,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
+- [itulo/eu-nordic-open-data-mcp](https://github.com/itulo/eu-nordic-open-data-mcp) - Open-source MCP server for official EU open data: ECB FX rates, policy rates and HICP inflation, EU consolidated sanctions screening, VIES VAT validation, and GLEIF LEI ownership chains. No API key for these tools; same tools also available as pay-per-use Apify actors.
 
 ### Trading Execution
 
