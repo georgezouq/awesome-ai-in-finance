@@ -184,6 +184,7 @@ Price and Volume process with Technology Analysis Indices
 - [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 - [patternity](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
 - [Quantium Research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
+- [PredixLab Signals](https://github.com/predixlab/predixlab-signals) - Python research pipeline for daily US equity signals (S&P 500 / Nasdaq-100): LightGBM with purged walk-forward validation, next-session backtests with per-side costs, and leakage tests. Daily data only; not live quotes.
 
 ### Portfolio Management
 
