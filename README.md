@@ -54,6 +54,12 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Nova-TradingAgent](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
 - [OpenCandle](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
 - [DXAP](https://www.dxap.ai/) - Agentic trading harness on Hyperliquid by DX Research Group: write a strategy in plain language, an AI agent trades your own account inside limits a policy engine enforces, and every decision is logged.
+- [seduma-trade-agent-demo](https://github.com/Quantum-Karate/seduma-trade-agent-demo) - Practice-only loop that runs LLM trading-agent decisions through confirm-gated simulated fills.
+- [LLM_trader](https://github.com/qrak/LLM_trader) - An LLM trading agent that reads a chart rendered from every closed candle, retrieves its own closed trades as memory, and publishes every prompt, decision and loss; paper trading with a ledger the repo can reproduce.
+- [TRA (bitra)](https://github.com/BijectiveLabs/bitra) - Autonomous crypto trading system in which LLM agents only propose: deterministic rules compute every figure, price costs before any order, size from the operator's risk limit, keep exits at the exchange, and record every decision with a re-verifiable hash.
+- [AlphaFinch](https://github.com/shloksobti/alphafinch) - AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.
+- [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
+- [FriesTrader](https://github.com/YizhiSong/FriesTrader) - Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.
 
 ## LLMs
 
@@ -85,6 +91,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Bargo Congress API](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
 - [financeskills](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
 - [Krexa](https://github.com/Krexa-xyz/skills) - Agent skill and remote MCP server for turning a trading idea, post or video into fixed rules, backtesting and paper-trading them free, and requesting a user-approved live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs.
+- [SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) - Read-only trading journal and review harness for agents: freezes point-in-time evidence packs, replays them deterministically, and grades rule candidates on a frozen 240-case finance benchmark. MIT.
 
 ## MCP Servers
 
@@ -125,6 +132,11 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - **Official** Firecrawl MCP server for finance research agents: web search, scrape, and crawl, plus Alexandria providers for SEC EDGAR filings and FRED macro series. Alexandria requires an API key.
+- [Kernel-Hunter/kandle](https://github.com/Kernel-Hunter/kandle) - Open-source browser charting app with an MCP server: agents read the chart, draw levels, add indicators and alerts, and run strategy backtests on crypto, stocks and forex.
+- [signal8ai/signal8-mcp](https://github.com/signal8ai/signal8-mcp) - **Official** Signal8 MCP server: small-cap dilution (warrants, ATMs, shelf registrations, convertibles, cash runway) with each figure cited to its SEC filing, plus insider and congressional trades, halts and reverse splits. Requires a Signal8 Pro API key.
+- [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
+- [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
+- [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
 
 ## Papers
 
@@ -160,6 +172,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 - [ai-agent-playbook](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
 - [Agents Finance](https://agentsfinance.io/) - Free bilingual (EN/ES) directory of real AI-agent use cases in accounting, FP&A, treasury and ERPs, with sources, evidence level and copyable prompts.
+- [EcoFinLearn](https://ecofinlearning.com) - Free in-browser Python, pandas, scikit-learn and SQL lessons for finance and economics students, including return prediction with scikit-learn; runs on Pyodide and SQLite with no signup.
 
 ## Strategies & Research
 
@@ -274,6 +287,7 @@ Price and Volume process with Technology Analysis Indices
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
 - [autorekt](https://github.com/autorekt/autorekt) - CLI and agent skill that give AI agents market data from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma, China money markets and prediction-market odds, with the age of every value.
+- [US Bank Data](https://github.com/anshuman-pandey/us-bank-data) - Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived source evidence.
 
 #### Crypto Currencies
 
@@ -331,6 +345,9 @@ Price and Volume process with Technology Analysis Indices
 - [QuantLink](https://www.quantlink.ai) - AI-powered US-equity research terminal with deep-research agents grounded in SEC filings, a fundamental and technical stock screener with backtesting, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking from STOCK Act disclosures. Free tier available.
 - [NeuPortal](https://neuportal.ai) - AI forecasting-accountability lab: every forecast is locked pre-event, Bitcoin-timestamped (OpenTimestamps), and Brier-scored against prediction markets in public.
 - [tracemodel](https://github.com/datayoga-io/tracemodel) - Python library for financial models that AI agents fill from filings: every number has a source, formulas are traced, and checks catch totals that do not tie.
+- [StockTipsArena](https://stocktipsarena.com) - AI-extracted Indian equity (NSE) analyst recommendation tracker, SEBI registry directory, and stock screener auditing 27,000+ public calls against exchange OHLCV candles, with an open CC BY 4.0 benchmark dataset ([GitHub](https://github.com/StockTipsArena/india-analyst-accuracy-benchmark)) and MCP server ([GitHub](https://github.com/StockTipsArena/stocktipsarena-mcp)). Free tier available.
+- [FinTwin](https://github.com/SpiliosDimakopoulos/fintwin) - Open source digital twin of 390+ public companies' finances built from SEC XBRL filings, with Monte Carlo stress tests, conformal forecast intervals and an out-of-sample backtest on 5,000+ SEC filers. Live dashboard and paper included.
+- [wallstreetype-research](https://github.com/lss680455-create/wallstreetype-research) - Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.
 
 ## Trading System
 
