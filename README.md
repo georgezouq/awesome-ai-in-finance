@@ -315,6 +315,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
+- [BeliefState](https://beliefstate.ai/) - Dated, source-linked investor theses, catalysts, risks, and recorded revisions through an API and hosted MCP. Company coverage can be checked for free.
 
 #### Prediction Markets
 
