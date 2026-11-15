@@ -428,6 +428,7 @@ Do it in real world!
 - [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist.
 - [nyu-mlif-notes](https://github.com/wizardforcel/nyu-mlif-notes) - NYU machine learning in finance notes.
 - [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis)
+- [How to Build a Financial Summary AI Agent](https://www.bluwhale.com/blog/build-financial-summary-ai-agent) - A guide to building a read-only financial summary agent, with synthetic CSV data, a reusable prompt, and tests for internal transfers and missing records.
 
 ## Others
 
