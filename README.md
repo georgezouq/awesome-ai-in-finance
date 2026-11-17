@@ -124,6 +124,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
 - [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+- [Mattbusel/polymarket-agent](https://github.com/Mattbusel/polymarket-agent) - One Rust binary that is a CLI and a stdio MCP server for Polymarket: market search, order books and prices, and locally signed CLOB v2 limit and market orders, cancels and positions.
 
 ### Research & Analysis
 
