@@ -113,6 +113,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
 - [itulo/eu-nordic-open-data-mcp](https://github.com/itulo/eu-nordic-open-data-mcp) - Open-source MCP server for official EU open data: ECB FX rates, policy rates and HICP inflation, EU consolidated sanctions screening, VIES VAT validation, and GLEIF LEI ownership chains. No API key for these tools; same tools also available as pay-per-use Apify actors.
+- [Bosco-Labs/bosco-labs-data](https://github.com/Bosco-Labs/bosco-labs-data) - Remote and stdio MCP server for official-source data with a source URL on every row: SEC EDGAR filings, Form 4 insider trades, 13F and N-PORT holdings, XBRL company financials, plus company registers and sanctions screening. The free MCP endpoint (no key) covers LEI and SEC CIK lookup only; the other tools are a paid API with prepaid credits.
 
 ### Trading Execution
 
