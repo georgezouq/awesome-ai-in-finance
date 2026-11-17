@@ -394,6 +394,7 @@ For Back Test & Live trading
 - [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Python-Pandas (70+ indicators).
 - [tulipnode](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
+- [fin-primitives](https://github.com/Mattbusel/fin-primitives) - 743 streaming technical indicators in exact decimal arithmetic for Rust and Python, with a pandas-ta style pandas accessor and a Polars namespace.
 
 ## Exchange API
 
