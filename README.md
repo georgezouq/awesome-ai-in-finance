@@ -288,6 +288,7 @@ Price and Volume process with Technology Analysis Indices
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
 - [autorekt](https://github.com/autorekt/autorekt) - CLI and agent skill that give AI agents market data from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma, China money markets and prediction-market odds, with the age of every value.
 - [US Bank Data](https://github.com/anshuman-pandey/us-bank-data) - Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived source evidence.
+- [AlphaYou](https://alphayou.net/developers) - REST API and MCP server for SEC Form 4 insider trades, 13F fund holdings, 8-K disclosures and Hyperliquid top-trader positions. Permanent free plan of 4 tools and 100 requests per day, no card required.
 
 #### Crypto Currencies
 
