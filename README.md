@@ -314,6 +314,7 @@ Price and Volume process with Technology Analysis Indices
 #### Alternative Data
 
 - [Adanos Market Sentiment API](https://api.adanos.org/docs/) - Market sentiment API for AI finance agents covering stocks across Reddit, X/Twitter, news, and Polymarket prediction markets with buzz, sentiment, trending, and comparison signals.
+- [CrowdWisdom Trading](https://www.crowdwisdomtrading.com/x402) - Crowd sentiment API and remote MCP server for AI trading agents: daily and weekly score (-100 to +100) with the number of pro traders behind it for stocks, ETFs, crypto, futures and FX, from YouTube, X, StockTwits, Reddit, podcasts and newsletters. Free daily and weekly calls; paid data per call via x402. Python: `pip install crowdwisdomtrading`.
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
 #### Prediction Markets
