@@ -287,8 +287,8 @@ Price and Volume process with Technology Analysis Indices
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
 - [autorekt](https://github.com/autorekt/autorekt) - CLI and agent skill that give AI agents market data from free public sources: cross-asset prices, dollar liquidity, swap spreads, positioning, options gamma, China money markets and prediction-market odds, with the age of every value.
-- [US Bank Data](https://github.com/anshuman-pandey/us-bank-data) - Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived 
-- [JASON Finance, Lending and Fraud Evaluation Previews](https://huggingface.co/datasets/Dynamicresponselabs/JASON-Finance-Lending-Previews) - Small free set of synthetic (fictional) conversation previews for testing AI assistants in finance, lending, collections and fraud-response settings.source evidence.
+- [US Bank Data](https://github.com/anshuman-pandey/us-bank-data) - Open Python package for selected FDIC institution financial snapshots and multi-bank quarterly panels with explicit units and archived source evidence.
+- [JASON Finance, Lending and Fraud Evaluation Previews](https://huggingface.co/datasets/Dynamicresponselabs/JASON-Finance-Lending-Previews) - Small free set of synthetic (fictional) conversation previews for testing AI assistants in finance, lending, collections and fraud-response settings.
 
 #### Crypto Currencies
 
