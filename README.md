@@ -113,6 +113,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 - [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
 - [itulo/eu-nordic-open-data-mcp](https://github.com/itulo/eu-nordic-open-data-mcp) - Open-source MCP server for official EU open data: ECB FX rates, policy rates and HICP inflation, EU consolidated sanctions screening, VIES VAT validation, and GLEIF LEI ownership chains. No API key for these tools; same tools also available as pay-per-use Apify actors.
+- [beepboop2025/financial-evidence-skills](https://github.com/beepboop2025/financial-evidence-skills) - Open-source MCP server, Python SDK, 4 Google Colab notebooks, and OpenAI Agents / PydanticAI / LangGraph / Google ADK quickstarts for source-cited Indian and US bank filings ([LiquiLens](https://liquilens.in/banking/compare/)), USD funding ([Seiche](https://seiche.info/)), market exit liquidity ([Undertow](https://liquilens-undertow.com/)), and China economic revisions ([Palimpsest](https://www.palimpsest.info/)). No API key required.
 
 ### Trading Execution
 
