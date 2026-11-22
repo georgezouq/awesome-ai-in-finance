@@ -137,6 +137,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
 - [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
 - [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
+- [lijiumixin/unhidea-research-mcp](https://github.com/lijiumixin/unhidea-research-mcp) - **Official** UnHideA Wall Street research MCP server (`https://mcp.unhidea.com/mcp`, Streamable HTTP + OAuth 2.0 / Bearer key): 14 tools for sell-side broker research search, cross-bank company packs, sourced ratings/target-price history, counter-evidence retrieval, and point-in-time replay ([Docs](https://unhidea.com/en/mcp)). Free account with OAuth/API key.
 
 ## Papers
 
@@ -348,6 +349,7 @@ Price and Volume process with Technology Analysis Indices
 - [StockTipsArena](https://stocktipsarena.com) - AI-extracted Indian equity (NSE) analyst recommendation tracker, SEBI registry directory, and stock screener auditing 27,000+ public calls against exchange OHLCV candles, with an open CC BY 4.0 benchmark dataset ([GitHub](https://github.com/StockTipsArena/india-analyst-accuracy-benchmark)) and MCP server ([GitHub](https://github.com/StockTipsArena/stocktipsarena-mcp)). Free tier available.
 - [FinTwin](https://github.com/SpiliosDimakopoulos/fintwin) - Open source digital twin of 390+ public companies' finances built from SEC XBRL filings, with Monte Carlo stress tests, conformal forecast intervals and an out-of-sample backtest on 5,000+ SEC filers. Live dashboard and paper included.
 - [wallstreetype-research](https://github.com/lss680455-create/wallstreetype-research) - Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.
+- [UnHideA](https://unhidea.com/en/) - Multilingual Wall Street equity research and market briefing platform distilling sell-side broker reports and investing interviews across 11 languages, with 1,100+ company and investment bank hubs and an open MIT 11-language financial entity & broker alias dataset ([GitHub](https://github.com/lijiumixin/wall-street-research-entities)). Free public reading available.
 
 ## Trading System
 
