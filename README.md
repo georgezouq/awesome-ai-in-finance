@@ -137,6 +137,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
 - [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
 - [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) - **Official** DC Hub MCP server: the orchestration layer for data center and energy intelligence. Call `execute_plan` first for one dated, cited answer on data center deals (M&A), market analytics, grid power, interconnection queues and site analysis, including the Data Center Power Index (DCPI). Remote endpoint `https://dchub.cloud/mcp`; `DCHUB_API_KEY` is optional.
 
 ## Papers
 
