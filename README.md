@@ -124,6 +124,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
 - [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+- [intoApex/tas-guard](https://github.com/intoApex/tas-guard) - Open-source MCP proxy between an AI agent and a broker, exchange or wallet: per-order and daily limits, allow lists, human approval for large or live orders, a kill switch and a hash-chained log of every decision; also Hyperliquid, Solana and EVM modes. MIT, no API key.
 
 ### Research & Analysis
 
