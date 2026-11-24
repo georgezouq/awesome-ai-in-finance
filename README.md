@@ -264,6 +264,7 @@ Price and Volume process with Technology Analysis Indices
 - [cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 - [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
 - [blackbird](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
+- [quant-radar-cli](https://github.com/devbox-zero-ops/quant-radar-cli) - Zero-dependency Python CLI for Hyperliquid/Binance/Bybit cross-venue funding-rate arbitrage, Polymarket NegRisk mispricing scans, and fee-aware delta-neutral paper trading.
 
 ## Data Sources
 
