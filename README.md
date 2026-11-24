@@ -60,6 +60,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AlphaFinch](https://github.com/shloksobti/alphafinch) - AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.
 - [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
 - [FriesTrader](https://github.com/YizhiSong/FriesTrader) - Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Open-source 7-market equity screener (CN/US/HK/JP/KR/TW/IN) with 12 YAML strategies, 250-day Walk-Forward regime & overhead-supply audit, code-capped red-flag LLM re-ranking (<=35), STDIO MCP server, and public next_open T+5/10/20 paper benchmark; research only, no trade execution.
 
 ## LLMs
 
