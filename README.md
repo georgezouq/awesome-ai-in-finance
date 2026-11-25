@@ -209,6 +209,7 @@ Price and Volume process with Technology Analysis Indices
 - [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
 - [skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 - [CAST](https://github.com/FanBroWell/CAST) - Cross-asset Kalman filtering with model predictive control for limiting portfolio drawdown (ICDM 2026).
+- [vlab](https://github.com/aazh2026/vlab) - Zero-dependency multi-asset allocation backtesting lab that separates an investable-reality window from an index-proxy long window, refuses to let unlisted assets enter early, and pins four historical engine bugs with dedicated regression tests.
 
 
 ### High Frequency Trading
