@@ -60,6 +60,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AlphaFinch](https://github.com/shloksobti/alphafinch) - AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.
 - [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
 - [FriesTrader](https://github.com/YizhiSong/FriesTrader) - Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.
+- [CollieTax](https://collietax.com) - Bookkeeping, 1099s and W-2s for a US small business from the AI agent the owner already uses, over a hosted remote MCP server; a CPA or EA prepares and signs business tax returns.
 
 ## LLMs
 
