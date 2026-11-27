@@ -60,6 +60,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [AlphaFinch](https://github.com/shloksobti/alphafinch) - AlphaEvolve-style agent that invents and evolves trading strategies as code, then grades them on sealed holdouts and a pre-registered multi-market exam; no brokerage connection.
 - [multi-agent-investment](https://github.com/lss680455-create/multi-agent-investment) - Multi-agent equity research with three reasoning modes and deterministic signal fusion; decisions are reproducible from a pure-function core, with an offline demo that needs no API keys.
 - [FriesTrader](https://github.com/YizhiSong/FriesTrader) - Claude Code template for automated live orders through Robinhood Agentic Trading MCP, with rule-based position sizing and trade limits. Requires an eligible Robinhood Agentic Trading account.
+- [elizaos-plugin-feraterra](https://github.com/FeraTerra/elizaos-plugin-feraterra) - Zero-dependency ElizaOS TypeScript/ESM plugin for FeraTerra CLOB perpetuals, spot, and basis spreads on Base Sepolia testnet, with stateless pre-trade order simulation (`POST /order/preview`) and client-side `Keccak-256`/`secp256k1` solvency verification. MIT.
 
 ## LLMs
 
@@ -124,6 +125,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
 - [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
 - [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+- [FeraTerra/feraterra-sdk](https://github.com/FeraTerra/feraterra-sdk) - Open-source 24-tool MCP server (`stdio` and hosted Streamable HTTP) and zero-dependency Python/C++23 SDK for FeraTerra CLOB perpetuals, spot, and basis spreads, with CCXT and LangChain/PydanticAI toolkits plus stateless pre-trade margin simulation on Base Sepolia testnet. MIT.
 
 ### Research & Analysis
 
@@ -264,6 +266,7 @@ Price and Volume process with Technology Analysis Indices
 - [cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 - [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
 - [blackbird](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
+- [feraterra-quant-bots](https://github.com/FeraTerra/feraterra-quant-bots) - Reference Ring-1 CLOB market maker and zero-capital atomic flash-arbitrage (`POST /flash_arb`) & liquidation searcher in Python, with VeighNa (`vnpy`)/Freqtrade gateways and offline `--self-test` solvency benchmarks on Base Sepolia testnet. MIT.
 
 ## Data Sources
 
