@@ -348,7 +348,7 @@ Price and Volume process with Technology Analysis Indices
 - [StockTipsArena](https://stocktipsarena.com) - AI-extracted Indian equity (NSE) analyst recommendation tracker, SEBI registry directory, and stock screener auditing 27,000+ public calls against exchange OHLCV candles, with an open CC BY 4.0 benchmark dataset ([GitHub](https://github.com/StockTipsArena/india-analyst-accuracy-benchmark)) and MCP server ([GitHub](https://github.com/StockTipsArena/stocktipsarena-mcp)). Free tier available.
 - [FinTwin](https://github.com/SpiliosDimakopoulos/fintwin) - Open source digital twin of 390+ public companies' finances built from SEC XBRL filings, with Monte Carlo stress tests, conformal forecast intervals and an out-of-sample backtest on 5,000+ SEC filers. Live dashboard and paper included.
 - [wallstreetype-research](https://github.com/lss680455-create/wallstreetype-research) - Agent-agnostic equity-research pipeline that turns sell-side report methodology into runnable code: a dual-market data layer (US / A-share), institutional chart families, six layout templates, and Markdown-to-Word/PDF report production.
-- [Vertus AI](https://www.vertus.ai) - Cognitive AI for finance, research and strategic decision-making that shows its reasoning; builds a new neural topology for each query instead of working like a regular LLM. Waitlist.
+- [Vertus AI](https://www.vertus.ai) - Cognitive AI for finance, research and strategic decision-making that reasons rather than predicts; builds a new neural topology for each query instead of working like a regular LLM. Waitlist.
 
 ## Trading System
 
