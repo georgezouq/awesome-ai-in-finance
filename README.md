@@ -136,7 +136,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [signal8ai/signal8-mcp](https://github.com/signal8ai/signal8-mcp) - **Official** Signal8 MCP server: small-cap dilution (warrants, ATMs, shelf registrations, convertibles, cash runway) with each figure cited to its SEC filing, plus insider and congressional trades, halts and reverse splits. Requires a Signal8 Pro API key.
 - [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) - Open-source MCP server and Python library that checks how much of an LLM trading backtest falls before the model's training cutoff and how many clean months a claimed Sharpe needs after selection; publishes an evidence-adjusted leaderboard of public AI trading competitions.
 - [financial-reports/financial-reports-mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) - **Official** FinancialFilings MCP server: annual and interim reports, ad-hoc disclosures and ESEF/XBRL filings from securities regulators in about 60 markets, with XBRL financials and company identifiers. Free with a registered account (OAuth).
-- [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio or free hosted endpoint, no API key.
+- [kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) - Prop-firm risk rules MCP server (FTMO, Topstep, Apex and more): sourced daily-loss and max-drawdown limits plus a drawdown-room check for trading agents. Stdio
+- [OpenAccountants](https://github.com/openaccountants/openaccountants) - Tax, VAT/GST and accounting instructions for AI with a hosted MCP server; every figure links to its official source. AGPL-3.0 code.or free hosted endpoint, no API key.
 
 ## Papers
 
